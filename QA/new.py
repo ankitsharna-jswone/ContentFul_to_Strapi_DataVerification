@@ -2,7 +2,7 @@ import json
 import csv
 
 # Load JSON data
-json_file_path = "NewScript/read.json"
+json_file_path = "/Users/ankitsharma/Desktop/DataValidation/QA/resut.json"
 
 with open(json_file_path, "r", encoding="utf-8") as file:
     data = json.load(file)
