@@ -5,12 +5,12 @@ from collections import defaultdict
 
 # Configuration
 CONTENTFUL_CSV = "/Users/ankitsharma/Desktop/DataValidation/Prod/data/updateextracted_contentful_data.csv"
-STRAPI_CSV = "Prod/csv/new_Strapi_prodv2.csv"
+STRAPI_CSV = "Prod/csv/new_Strapi_prod.csv"
 OUTPUT_CSV = "/Users/ankitsharma/Desktop/DataValidation/Prod/csv/Validation_Prod_V2.csv"
 SIMILARITY_THRESHOLD = 0.99  # For content
 METADATA_SIMILARITY_THRESHOLD = 0.99  # For title, metaTitle, metaDescription
 EXACT_MATCH_FIELDS = {'categoryName', 'timeDuration', 'isThisAFeaturedArticle', 'isThisAPrimaryArticle'}
-METADATA_FIELDS = ['title', 'metaTitle', 'metaDescription','linkUrl','linkText']
+METADATA_FIELDS = ['title', 'metaTitle', 'metaDescription', 'linkUrl', 'linkText']
 
 def normalize_content(text):
     """Normalize content fields aggressively."""
@@ -60,8 +60,8 @@ def load_data(file_path, fields):
 contentful_data = load_data(CONTENTFUL_CSV, METADATA_FIELDS + list(EXACT_MATCH_FIELDS) + ['content'])
 strapi_data = load_data(STRAPI_CSV, METADATA_FIELDS + list(EXACT_MATCH_FIELDS) + ['strapi_content'])
 
-# Prepare CSV headers
-headers = ['linkUrl', 'status', 'content_match', 'content_similarity', 'content_diff']
+# Prepare CSV headers - removing status column as requested
+headers = ['linkUrl', 'content_match', 'content_similarity', 'content_diff']
 for field in METADATA_FIELDS:
     headers.extend([f'{field}_contentful', f'{field}_strapi', f'{field}_similarity', f'{field}_match'])
 for field in EXACT_MATCH_FIELDS:
@@ -75,7 +75,6 @@ with open(OUTPUT_CSV, 'w', newline='', encoding='utf-8') as csvfile:
     for url in set(contentful_data.keys()).union(strapi_data.keys()):
         row = {
             'linkUrl': url,
-            'status': '✅ Valid',
             'content_match': '✅',
             'content_similarity': 1.0,
             'content_diff': '',
@@ -88,47 +87,47 @@ with open(OUTPUT_CSV, 'w', newline='', encoding='utf-8') as csvfile:
             row[f'{field}_contentful'] = contentful_data.get(url, {}).get(field, '')
             row[f'{field}_strapi'] = strapi_data.get(url, {}).get(field, '')
             row[f'{field}_similarity'] = ''  # Only metadata fields use this
-            row[f'{field}_match'] = '✅'
+            
+            # Mark as ❌ by default if either source is missing
+            if url not in contentful_data or url not in strapi_data:
+                row[f'{field}_match'] = '❌'
+            else:
+                row[f'{field}_match'] = '✅'
 
-        # Check presence
+        # Check presence - if missing in either source, mark content match as ❌
         if row['missing_in_strapi'] or row['missing_in_contentful']:
-            row['status'] = '❌ Missing'
+            row['content_match'] = '❌'
             writer.writerow([row[h] for h in headers])
             continue
 
-        # Compare Content
+        # Compare Content - more strict matching
         c_content = normalize_content(contentful_data[url]['content'])
         s_content = normalize_content(strapi_data[url]['strapi_content'])
+        
+        # Only consider exact content hash match as true match
         if contentful_data[url]['content_hash'] != strapi_data[url].get('content_hash', ''):
             similarity = difflib.SequenceMatcher(None, c_content, s_content).ratio()
             row['content_similarity'] = round(similarity, 2)
-            if similarity < SIMILARITY_THRESHOLD:
-                row['content_match'] = '❌'
-                row['content_diff'] = advanced_diff(contentful_data[url]['content'], strapi_data[url]['strapi_content'])
+            # Any difference results in mismatch
+            row['content_match'] = '❌'
+            row['content_diff'] = advanced_diff(contentful_data[url]['content'], strapi_data[url]['strapi_content'])
 
-        # Compare Metadata Fields
-        metadata_mismatch = False
+        # Compare Metadata Fields - more strict checking
         for field in METADATA_FIELDS:
             c_val = normalize_metadata(row[f'{field}_contentful'])
             s_val = normalize_metadata(row[f'{field}_strapi'])
             similarity = difflib.SequenceMatcher(None, c_val, s_val).ratio()
             row[f'{field}_similarity'] = round(similarity, 2)
+            # Any difference below perfect threshold is mismatch
             if similarity < METADATA_SIMILARITY_THRESHOLD:
-                metadata_mismatch = True
                 row[f'{field}_match'] = '❌'
 
         # Compare Exact Match Fields
-        exact_mismatch = False
         for field in EXACT_MATCH_FIELDS:
             c_val = normalize_metadata(row[f'{field}_contentful'])
             s_val = normalize_metadata(row[f'{field}_strapi'])
             if c_val != s_val:
-                exact_mismatch = True
                 row[f'{field}_match'] = '❌'
-
-        # Update overall status
-        if row['content_match'] == '❌' or metadata_mismatch or exact_mismatch:
-            row['status'] = '❌ Mismatch'
 
         writer.writerow([row[h] for h in headers])
 

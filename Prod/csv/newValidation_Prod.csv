@@ -1,7 +1,36 @@
 linkUrl,status,field_similarities,field_mismatches,missing_in_strapi,missing_in_contentful,detailed_diffs
-the-importance-of-quality-control-in-peb-manufacturing,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-550-vs-550d-tmt-bars-which-one-should-you-choose,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-is-the-real-estate-industry-set-to-bounce-back-in-2022,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.932; metaDescription: 0.976; categoryName: 1.0; timeDuration: 0.0,metaTitle (Similarity: 0.93); metaDescription (Similarity: 0.98); timeDuration (Exact match required),,,"metaTitle:
+concrete-vs-cement-a-comprehensive-comparison,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+modern-methods-of-testing-steel-quality,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+8-factors-to-consider-before-buying-cement,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+black-stainless-steel-the-new-champion-in-appliance-manufacturing,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+tmt-steel-manufacturing-process-a-comprehensive-guide,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+why-and-how-msmes-are-contributing-largely-to-indias-economic-growth,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+cement-in-railway-infrastructure,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+8-common-concrete-problems-and-how-to-solve-them,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-are-the-types-of-steel-columns-used-in-construction,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+steel-marketwatch-july-2022,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-to-get-the-perfect-mirror-finish-for-stainless-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-to-use-google-search-to-help-grow-your-business,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+corrosion-is-a-common-challenge-in-steel-structures,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+basics-you-need-to-know-about-peb-industrial-shed-and-factory-building,❌ Missing,,,❌,,
+why-trade-credit-is-necessary-for-the-steel-industry,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+why-are-the-wire-rods-on-the-jsw-one-msme-platform-ideal-for-electrical-use,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+applications-of-hrpo-is-1079-2017-hr2-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+udyog-aadhar-what-is-it-and-how-can-you-get-one,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+consumables-corner-role-of-welding-consumables-in-the-construction-industry,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+tips-and-tricks-to-lower-construction-costs,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-to-pick-steel-copper-brass-or-bronze,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-to-enhance-the-durability-of-fasteners-using-steel-coatings,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+difference-between-ordinary-portland-cement-and-portland-slag-cement,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-corrosion-resistance-of-stainless-steel-how-it-works-and-how-to-optimise,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-effect-of-strain-rate-and-temperature-on-the-mechanical-behaviour-of,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 0.0; timeDuration: 0.0,categoryName (Exact match required); timeDuration (Exact match required),,,
+how-are-solar-panels-made,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-is-annealing-in-steel-and-what-are-its-benefits-in-the-peb-industry,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+construction-versus-natural-disasters-how-do-tmt-bars-protect,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+steel-selection-for-high-performance-vehicles,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+cibil-and-cmr-how-better-credit-ratings-can-help-fuel-growth-for-msmes,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-is-the-role-played-by-concrete-admixtures-in-modern-construction,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-to-select-the-right-welding-rod,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.0; metaDescription: 0.0; categoryName: 1.0; timeDuration: 1.0,metaTitle (Similarity: 0.00); metaDescription (Similarity: 0.00),,,"metaTitle:
 
     <table class=""diff"" id=""difflib_chg_to0__top""
            cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
@@ -9,8 +38,8 @@ is-the-real-estate-industry-set-to-bounce-back-in-2022,❌ Mismatch,content: 1.0
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaTitle</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaTitle</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to0__0""><a href=""#difflib_chg_to0__top"">t</a></td><td class=""diff_header"" id=""from0_1"">1</td><td nowrap=""nowrap"">real&nbsp;estate&nbsp;industry&nbsp;and&nbsp;its&nbsp;bounce&nbsp;back&nbsp;in&nbsp;2022&nbsp;jsw&nbsp;one&nbsp;msm</td><td class=""diff_next""><a href=""#difflib_chg_to0__top"">t</a></td><td class=""diff_header"" id=""to0_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>real&nbsp;estate&nbsp;industry&nbsp;and&nbsp;its&nbsp;bounce&nbsp;back&nbsp;in&nbsp;2022&nbsp;jsw&nbsp;on</td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">e&nbsp;blog</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">e&nbsp;msme&nbsp;blog</td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to0__0""><a href=""#difflib_chg_to0__top"">t</a></td><td class=""diff_header"" id=""from0_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to0__top"">t</a></td><td class=""diff_header"" id=""to0_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;steel&nbsp;online&nbsp;industrial&nbsp;materials&nbsp;marketplace&nbsp;jsw&nbsp;one&nbsp;ms</span></td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">me</span></td></tr>
         </tbody>
     </table>
 metaDescription:
@@ -21,44 +50,45 @@ metaDescription:
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaDescription</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaDescription</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to1__0""><a href=""#difflib_chg_to1__top"">t</a></td><td class=""diff_header"" id=""from1_1"">1</td><td nowrap=""nowrap"">covid&nbsp;19&nbsp;greatly&nbsp;impacted&nbsp;the&nbsp;real&nbsp;estate&nbsp;sector&nbsp;and&nbsp;brought</td><td class=""diff_next""><a href=""#difflib_chg_to1__top"">t</a></td><td class=""diff_header"" id=""to1_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>covid&nbsp;19&nbsp;greatly&nbsp;impacted&nbsp;the&nbsp;real&nbsp;estate&nbsp;sector&nbsp;and&nbsp;br</td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">&nbsp;growth&nbsp;to&nbsp;a&nbsp;sudden&nbsp;halt&nbsp;read&nbsp;on&nbsp;to&nbsp;know&nbsp;in&nbsp;detail&nbsp;about&nbsp;the</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ought&nbsp;growth&nbsp;to&nbsp;a&nbsp;sudden&nbsp;halt&nbsp;read&nbsp;on&nbsp;to&nbsp;know&nbsp;in&nbsp;detail&nbsp;abou</td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">&nbsp;real&nbsp;estate&nbsp;industry&nbsp;and&nbsp;its&nbsp;growth</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">t&nbsp;the&nbsp;real&nbsp;estate&nbsp;industry&nbsp;and&nbsp;its&nbsp;growth</td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to1__0""><a href=""#difflib_chg_to1__top"">t</a></td><td class=""diff_header"" id=""from1_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to1__top"">t</a></td><td class=""diff_header"" id=""to1_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;the&nbsp;best&nbsp;quality&nbsp;steel&nbsp;welding&nbsp;consumables&nbsp;tmt&nbsp;and&nbsp;cemen</span></td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">t&nbsp;online&nbsp;at&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;the&nbsp;online&nbsp;marketplace&nbsp;for&nbsp;manufact</span></td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">uring&nbsp;construction&nbsp;material&nbsp;requirements</span></td></tr>
         </tbody>
     </table>"
-combating-the-steel-price-fluctuations-in-india-what-are-your-options-as-an,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-budgeting-strategies-for-managing-cement-price-fluctuations,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-unveiling-the-characteristics-types-and-applications-of-colour-coated-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-enhancing-solar-panel-efficiency-with-steel-support-structures,❌ Missing,,,❌,,
-the-future-of-steel-is-green-innovation-in-the-global-steel-industry,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-cracking-the-motorcycle-code-5-important-steels-used-in-two-wheelers,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-steel-tubing-and-piping-are-tech-enabled-marketplaces-the-future-for-the,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-steel-reinforcements-protect-passengers-in-a-crash,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-5-applications-of-welded-wire-mesh,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-is-jsw-concreel-hd-cement,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-role-of-steel-columns-in-increasing-load-bearing-capacity-in-pebs,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-8-ways-steel-enhance-the-structural-integrity-of-warehouses,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-best-practices-for-welding-steel-in-auto-parts-manufacturing,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-steel-endures-in-solar-applications,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-steel-wire-rods-power-your-vehicles,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-rising-input-costs-and-unstable-steel-prices-a-concern-for-appliance,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-msme-financing-what-you-need-to-know-about-funding-your-business,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-msmes-can-leverage-steel-to-improve-safety-in-auto-components,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-difference-between-cold-rolled-and-cold-drawn-steel-applications-and-use,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-do-steel-trucks-meet-the-challenges-of-heavy-duty-applications,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-are-solar-panels-made,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-steel-reinforcements-improve-the-structural-integrity-of-solar-carports,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-digital-lending-options-for-msmes-in-india,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-stainless-steel-in-solar-energy-use,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-corrosion-resistance-of-stainless-steel-how-it-works-and-how-to-optimise,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-an-msmes-guide-to-working-capital-management,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-role-of-cement-in-the-durability-of-bridges-and-flyovers,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-7-tips-for-prolonging-vehicle-lifespan-with-steel-chassis-maintenance,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-business,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-role-of-steel-in-sustainable-construction-and-green-building-design,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-understanding-is-2062-2011-e350a-hot-rolled-structural-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-galvanised-vs-stainless-steel-what-steel-to-use-where-for-your-fabrication,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-steel-the-fuel-behind-renewable-energy,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.0; metaDescription: 0.0; categoryName: 1.0; timeDuration: 0.0,metaTitle (Similarity: 0.00); metaDescription (Similarity: 0.00); timeDuration (Exact match required),,,"metaTitle:
+repair-of-rcc-structures-techniques-and-materials-used,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+galvanized-steel-an-indispensable-material-for-the-future-of-the-automotive,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-hot-rolled-steel-makes-i-beams-resilient,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+exploring-is-513-cr2-cold-rolled-steels-versatility,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+electric-vehicle-boom-in-india-opportunities-for-the-msmes-to-catalyse-the,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+business,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+importance-of-rebar-in-concrete-footings-for-solid-foundations,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-to-cure-concrete-at-the-right-temperature,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-is-the-importance-of-proper-heat-treatment-in-steel-crankshaft,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-steel-stamping-impacts-precision-in-auto-parts-production,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+heat-treated-steel-in-engine-components-benefits-and-applications,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+top-techniques-for-welding-tmt-bars,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-influence-of-water-cement-ratio-on-workability-and-strength,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+contemporary-uses-of-mild-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+applications-of-prestressed-concrete,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+iso-certification-9000-versus-9001-what-is-the-difference-iso-certifications,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-are-the-best-steel-roofing-solutions-for-industrial-buildings,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+impact-of-tmt-bar-grades-on-seismic-performance-in-high-risk-zones,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-to-avoid-the-cracks-in-a-wall-or-column-for-high-strength-concrete,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+from-paint-to-coating-evaluating-colour-coated-steel-and-traditional-painted,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+cement-in-the-construction-of-high-rise-buildings-ensuring-structural,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+why-are-soil-analysis-and-site-preparation-for-installing-steel-support,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+applications-of-cold-rolled-steel-in-structural-furniture-elements,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+difference-between-cold-rolled-and-cold-drawn-steel-applications-and-use,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-to-maintain-the-longevity-of-steel-fasteners-in-harsh-environments,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-tmt-steel-redefines-infrastructure-development,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+steel-ground-mounts-vs-roof-mounts-what-are-the-pros-and-cons,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+tips-for-properly-mounting-solar-panels-with-steel-rails,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-benefits-and-challenges-of-using-stainless-steel-in-marine-environments,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+10-tips-for-maintaining-steel-springs-for-optimal-suspension-performance,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-to-optimise-energy-efficiency-in-industrial-buildings-with-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+different-methods-of-galvanisation-to-enhance-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+your-ultimate-guide-to-maintaining-concrete-structures,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+choosing-the-right-grade-of-wire-rod-for-your-specific-application,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.921; metaDescription: 0.97; categoryName: 1.0; timeDuration: 1.0,metaTitle (Similarity: 0.92); metaDescription (Similarity: 0.97),,,"metaTitle:
 
     <table class=""diff"" id=""difflib_chg_to2__top""
            cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
@@ -66,8 +96,7 @@ steel-the-fuel-behind-renewable-energy,❌ Mismatch,content: 1.0; title: 1.0; me
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaTitle</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaTitle</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to2__0""><a href=""#difflib_chg_to2__top"">t</a></td><td class=""diff_header"" id=""from2_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to2__top"">t</a></td><td class=""diff_header"" id=""to2_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;buy&nbsp;steel&nbsp;online&nbsp;industrial&nbsp;materials&nbsp;marketplace&nbsp;jsw&nbsp;o</span></td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">ne&nbsp;msme</span></td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to2__0""><a href=""#difflib_chg_to2__top"">t</a></td><td class=""diff_header"" id=""from2_1"">1</td><td nowrap=""nowrap"">choosing&nbsp;the&nbsp;right&nbsp;grade&nbsp;of&nbsp;wire&nbsp;rod&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;blog</td><td class=""diff_next""><a href=""#difflib_chg_to2__top"">t</a></td><td class=""diff_header"" id=""to2_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>choosing&nbsp;the&nbsp;right&nbsp;grade&nbsp;of&nbsp;wire&nbsp;rod&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;blog</td></tr>
         </tbody>
     </table>
 metaDescription:
@@ -78,14 +107,39 @@ metaDescription:
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaDescription</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaDescription</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to3__0""><a href=""#difflib_chg_to3__top"">t</a></td><td class=""diff_header"" id=""from3_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to3__top"">t</a></td><td class=""diff_header"" id=""to3_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;buy&nbsp;the&nbsp;best&nbsp;quality&nbsp;steel&nbsp;welding&nbsp;consumables&nbsp;tmt&nbsp;and&nbsp;</span></td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">cement&nbsp;online&nbsp;at&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;the&nbsp;online&nbsp;marketplace&nbsp;for&nbsp;man</span></td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">ufacturing&nbsp;construction&nbsp;material&nbsp;requirements</span></td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to3__0""><a href=""#difflib_chg_to3__top"">t</a></td><td class=""diff_header"" id=""from3_1"">1</td><td nowrap=""nowrap"">learn&nbsp;about&nbsp;different&nbsp;types&nbsp;of&nbsp;wire&nbsp;rods&nbsp;including&nbsp;carbon&nbsp;st</td><td class=""diff_next""><a href=""#difflib_chg_to3__top"">t</a></td><td class=""diff_header"" id=""to3_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>learn&nbsp;about&nbsp;different&nbsp;types&nbsp;of&nbsp;wire&nbsp;rods&nbsp;including&nbsp;carb</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">eel&nbsp;alloy&nbsp;steel&nbsp;stainless&nbsp;steel&nbsp;and&nbsp;high&nbsp;low&nbsp;carbon&nbsp;variants</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">on&nbsp;steel&nbsp;alloy&nbsp;steel&nbsp;stainless&nbsp;steel&nbsp;and&nbsp;high&nbsp;low&nbsp;carbon&nbsp;var</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">&nbsp;along&nbsp;with&nbsp;their&nbsp;applications</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">iants&nbsp;along&nbsp;with&nbsp;their&nbsp;applications</td></tr>
         </tbody>
     </table>"
-importance-of-rebar-in-concrete-footings-for-solid-foundations,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-to-select-the-right-steel-for-your-project,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-best-practices-for-fabricating-solar-panel-frames-using-galvanised-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.936; metaDescription: 0.969; categoryName: 1.0; timeDuration: 0.0,metaTitle (Similarity: 0.94); metaDescription (Similarity: 0.97); timeDuration (Exact match required),,,"metaTitle:
+protecting-hot-rolled-sheets-from-rust-during-rainy-seasons,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+5-advantages-of-galvanised-steel-support-posts-in-solar-projects,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+microstructural-analysis-of-tmt-bars-for-better-tensile-strength,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-do-steel-trucks-meet-the-challenges-of-heavy-duty-applications,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-steel-reinforcement-strengthens-ground-mounted-solar-panels,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-impact-of-impurities-and-alloying-elements-on-the-mechanical-properties,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-are-the-chemical-properties-of-different-types-of-cement-and-how-do,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-role-of-hot-rolled-steel-in-pre-engineered-buildings,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+benefits-of-using-crs-tmt-bars-in-coastal-construction-projects,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-are-the-various-grades-of-opc,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+benefits-of-steel-cladding-sheets-in-construction-projects,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-does-the-hydration-process-of-cement-work-and-why-is-it-crucial,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+off-balance-sheet-financing-how-businesses-can-access-funds-without-adding,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+your-complete-guide-to-purchasing-chequered-steel-plates,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+8-ways-steel-enhance-the-structural-integrity-of-warehouses,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+why-are-solar-panels-a-popular-choice-for-investment,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-e250br-steel-enhances-industrial-equipment-durability,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-impact-of-tmt-bar-quality-on-building-durability,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+steel-vs-concrete-support-structures-for-solar-panel-installations,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+why-is-quality-control-essential-in-steel-fabrication,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-is-an-autoclaved-aerated-concrete-acc-block,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+steel-fabrication-for-infrastructure,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+550-vs-550d-tmt-bars-which-one-should-you-choose,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+alkali-silica-reaction-in-cement-causes-and-mitigation-strategies,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-economic-benefits-of-using-tmt-bars-in-infrastructure-projects,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+storage-solutions-with-coated-gi-steel-benefits-and-applications,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+heat-treatments-and-their-impact-on-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+why-should-you-buy-steel-from-a-trusted-supplier,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.0; metaDescription: 0.0; categoryName: 1.0; timeDuration: 1.0,metaTitle (Similarity: 0.00); metaDescription (Similarity: 0.00),,,"metaTitle:
 
     <table class=""diff"" id=""difflib_chg_to4__top""
            cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
@@ -93,8 +147,8 @@ best-practices-for-fabricating-solar-panel-frames-using-galvanised-steel,❌ Mis
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaTitle</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaTitle</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to4__0""><a href=""#difflib_chg_to4__top"">t</a></td><td class=""diff_header"" id=""from4_1"">1</td><td nowrap=""nowrap"">why&nbsp;galvanised&nbsp;steel&nbsp;is&nbsp;the&nbsp;best&nbsp;choice&nbsp;for&nbsp;solar&nbsp;panel&nbsp;fram</td><td class=""diff_next""><a href=""#difflib_chg_to4__top"">t</a></td><td class=""diff_header"" id=""to4_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>why&nbsp;galvanised&nbsp;steel&nbsp;is&nbsp;the&nbsp;best&nbsp;choice&nbsp;for&nbsp;solar&nbsp;panel</td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">es&nbsp;jsw&nbsp;one&nbsp;msme</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">&nbsp;frames&nbsp;jsw&nbsp;one&nbsp;msme</td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to4__0""><a href=""#difflib_chg_to4__top"">t</a></td><td class=""diff_header"" id=""from4_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to4__top"">t</a></td><td class=""diff_header"" id=""to4_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;steel&nbsp;online&nbsp;industrial&nbsp;materials&nbsp;marketplace&nbsp;jsw&nbsp;one&nbsp;ms</span></td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">me</span></td></tr>
         </tbody>
     </table>
 metaDescription:
@@ -105,15 +159,45 @@ metaDescription:
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaDescription</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaDescription</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to5__0""><a href=""#difflib_chg_to5__top"">t</a></td><td class=""diff_header"" id=""from5_1"">1</td><td nowrap=""nowrap"">find&nbsp;out&nbsp;why&nbsp;hot&nbsp;dip&nbsp;galvanised&nbsp;steel&nbsp;is&nbsp;the&nbsp;preferred&nbsp;mater</td><td class=""diff_next""><a href=""#difflib_chg_to5__top"">t</a></td><td class=""diff_header"" id=""to5_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>find&nbsp;out&nbsp;why&nbsp;hot&nbsp;dip&nbsp;galvanised&nbsp;steel&nbsp;is&nbsp;the&nbsp;preferred&nbsp;</td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ial&nbsp;for&nbsp;solar&nbsp;panel&nbsp;frames&nbsp;and&nbsp;how&nbsp;to&nbsp;optimise&nbsp;fabrication&nbsp;f</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">material&nbsp;for&nbsp;solar&nbsp;panel&nbsp;frames&nbsp;and&nbsp;how&nbsp;to&nbsp;optimise&nbsp;fabricat</td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">or&nbsp;strength&nbsp;corrosion&nbsp;resistance&nbsp;and&nbsp;efficiency</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ion&nbsp;for&nbsp;strength&nbsp;corrosion&nbsp;resistance&nbsp;and&nbsp;efficiency</td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to5__0""><a href=""#difflib_chg_to5__top"">t</a></td><td class=""diff_header"" id=""from5_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to5__top"">t</a></td><td class=""diff_header"" id=""to5_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;the&nbsp;best&nbsp;quality&nbsp;steel&nbsp;welding&nbsp;consumables&nbsp;tmt&nbsp;and&nbsp;cemen</span></td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">t&nbsp;online&nbsp;at&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;the&nbsp;online&nbsp;marketplace&nbsp;for&nbsp;manufact</span></td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">uring&nbsp;construction&nbsp;material&nbsp;requirements</span></td></tr>
         </tbody>
     </table>"
-role-of-e-commerce-in-msme-growth,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-are-the-best-steel-roofing-solutions-for-industrial-buildings,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-to-maintain-the-longevity-of-steel-fasteners-in-harsh-environments,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-innovative-steel-applications-for-lightweight-electric-vehicle-components,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.724; metaDescription: 0.958; categoryName: 1.0; timeDuration: 0.0,metaTitle (Similarity: 0.72); metaDescription (Similarity: 0.96); timeDuration (Exact match required),,,"metaTitle:
+what-are-the-factors-that-contribute-to-the-quality-of-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+role-of-e-commerce-in-msme-growth,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+7-tips-for-prolonging-vehicle-lifespan-with-steel-chassis-maintenance,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+article,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+msme-financing-what-you-need-to-know-about-funding-your-business,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+optimising-trade-and-cash-flow-for-msmes-with-off-balance-sheet-options,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+role-of-nickel-in-stainless-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+all-about-eclgs-credit-scheme-for-msmes-hit-by-the-covid-19-pandemic,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+managing-bulk-procurement-challenges-in-tmt-delivery,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+industry-4-0-are-indian-msmes-all-set-for-the-next-wave-of-industrialization,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 0.0; timeDuration: 1.0,categoryName (Exact match required),,,
+how-the-pli-scheme-is-empowering-msmes-a-review,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-to-overcome-welding-challenges-with-tmt-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+importance-of-carbon-content-in-steel-for-industrial-applications,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+cold-rolled-steel-in-the-automobile-industry,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+a-look-into-the-multifaceted-applications-of-colour-coated-steel-sheets,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-role-of-e250a-steel-in-industrial-machinery,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-advantages-of-using-hot-rolled-steel-in-large-scale-peb-projects,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-msmes-can-minimise-steel-waste-during-solar-panel-manufacturing,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-are-the-advantages-and-uses-of-opc-cement,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-role-of-grain-boundaries-in-the-mechanical-properties-of-cold-rolled,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+an-msmes-guide-to-working-capital-management,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-is-slab-beam-column-and-footing-construction,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-car-sales-are-accelerating-the-steel-sector,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-impact-of-micro-alloying-elements-on-the-properties-of-tmt-bars,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+tmt-vs-tmx-vs-hysd,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-role-of-steel-in-sustainable-construction-and-green-building-design,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+unveiling-the-characteristics-types-and-applications-of-colour-coated-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+a-comprehensive-guide-to-is-2062-e250a-plates,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-transport-sector-and-logistics-why-automation-is-the-need-of-the-hour,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+understanding-letters-of-credit-lc-and-their-role-in-supporting-msmes,❌ Missing,,,❌,,
+steel-tubing-and-piping-are-tech-enabled-marketplaces-the-future-for-the,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+best-cement-for-plastering-your-house,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+understanding-is-2062-2011-e350a-hot-rolled-structural-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+steel-solutions-for-meeting-emission-standards-in-the-auto-industry,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.936; metaDescription: 0.972; categoryName: 1.0; timeDuration: 1.0,metaTitle (Similarity: 0.94); metaDescription (Similarity: 0.97),,,"metaTitle:
 
     <table class=""diff"" id=""difflib_chg_to6__top""
            cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
@@ -121,8 +205,8 @@ innovative-steel-applications-for-lightweight-electric-vehicle-components,❌ Mi
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaTitle</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaTitle</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to6__0""><a href=""#difflib_chg_to6__top"">t</a></td><td class=""diff_header"" id=""from6_1"">1</td><td nowrap=""nowrap"">the&nbsp;role&nbsp;of&nbsp;advanced&nbsp;steel&nbsp;in&nbsp;lightweight&nbsp;electric&nbsp;vehicle&nbsp;d</td><td class=""diff_next""><a href=""#difflib_chg_to6__top"">t</a></td><td class=""diff_header"" id=""to6_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>the&nbsp;role&nbsp;of&nbsp;advanced&nbsp;steel&nbsp;in&nbsp;lightweight&nbsp;electric&nbsp;vehi</td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">esign<span class=""diff_sub"">&nbsp;jsw&nbsp;one&nbsp;msme</span></td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">cle&nbsp;design</td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to6__0""><a href=""#difflib_chg_to6__top"">t</a></td><td class=""diff_header"" id=""from6_1"">1</td><td nowrap=""nowrap"">steel&nbsp;solutions&nbsp;for&nbsp;meeting&nbsp;emission&nbsp;standards&nbsp;in&nbsp;the&nbsp;auto&nbsp;i</td><td class=""diff_next""><a href=""#difflib_chg_to6__top"">t</a></td><td class=""diff_header"" id=""to6_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>steel&nbsp;solutions&nbsp;for&nbsp;meeting&nbsp;emission&nbsp;standards&nbsp;in&nbsp;the&nbsp;a</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ndustry&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;blog</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">uto&nbsp;industry&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;blog</td></tr>
         </tbody>
     </table>
 metaDescription:
@@ -133,19 +217,24 @@ metaDescription:
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaDescription</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaDescription</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to7__0""><a href=""#difflib_chg_to7__top"">t</a></td><td class=""diff_header"" id=""from7_1"">1</td><td nowrap=""nowrap"">explore&nbsp;how&nbsp;advanced&nbsp;steel&nbsp;technologies&nbsp;are&nbsp;creating&nbsp;lightwe</td><td class=""diff_next""><a href=""#difflib_chg_to7__top"">t</a></td><td class=""diff_header"" id=""to7_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>explore&nbsp;how&nbsp;advanced&nbsp;steel&nbsp;technologies&nbsp;are&nbsp;creating&nbsp;li</td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ight&nbsp;ev&nbsp;components&nbsp;boosting&nbsp;performance&nbsp;safety&nbsp;and&nbsp;eco&nbsp;frien</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ghtweight&nbsp;ev&nbsp;components&nbsp;boosting&nbsp;performance&nbsp;safety&nbsp;and&nbsp;eco&nbsp;</td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">dliness&nbsp;in&nbsp;the&nbsp;race&nbsp;for&nbsp;greener&nbsp;transport</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">friendliness&nbsp;in&nbsp;the&nbsp;race&nbsp;for&nbsp;greener&nbsp;transport</td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to7__0""><a href=""#difflib_chg_to7__top"">t</a></td><td class=""diff_header"" id=""from7_1"">1</td><td nowrap=""nowrap""><span class=""diff_chg"">learn</span>&nbsp;how&nbsp;msmes&nbsp;in&nbsp;the&nbsp;auto&nbsp;industry&nbsp;can&nbsp;leverage&nbsp;advanced&nbsp;s</td><td class=""diff_next""><a href=""#difflib_chg_to7__top"">t</a></td><td class=""diff_header"" id=""to7_1"">1</td><td nowrap=""nowrap""><span class=""diff_chg"">test&nbsp;learn</span>&nbsp;how&nbsp;msmes&nbsp;in&nbsp;the&nbsp;auto&nbsp;industry&nbsp;can&nbsp;leverage&nbsp;advan</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">teel&nbsp;grades&nbsp;to&nbsp;meet&nbsp;evolving&nbsp;emission&nbsp;standards&nbsp;discover&nbsp;lig</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ced&nbsp;steel&nbsp;grades&nbsp;to&nbsp;meet&nbsp;evolving&nbsp;emission&nbsp;standards&nbsp;discove</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">htweight&nbsp;durable&nbsp;and&nbsp;sustainable&nbsp;steel&nbsp;solutions&nbsp;tailored&nbsp;fo</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">r&nbsp;lightweight&nbsp;durable&nbsp;and&nbsp;sustainable&nbsp;steel&nbsp;solutions&nbsp;tailor</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">r&nbsp;traditional&nbsp;and&nbsp;electric&nbsp;vehicles</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ed&nbsp;for&nbsp;traditional&nbsp;and&nbsp;electric&nbsp;vehicles</td></tr>
         </tbody>
     </table>"
-article,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-role-of-e250a-steel-in-industrial-machinery,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-galvanised-and-galvalume-steel-for-roofing-and-cladding,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-comparative-analysis-between-galvanised-vs-galvalume-steel-for-solar-panels,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-protecting-hot-rolled-sheets-from-rust-during-rainy-seasons,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-why-should-you-consider-tmt-this-rainy-season-for-construction-projects,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-cibil-and-cmr-how-better-credit-ratings-can-help-fuel-growth-for-msmes,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-choosing-the-right-grade-of-wire-rod-for-your-specific-application,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.921; metaDescription: 0.97; categoryName: 1.0; timeDuration: 0.0,metaTitle (Similarity: 0.92); metaDescription (Similarity: 0.97); timeDuration (Exact match required),,,"metaTitle:
+how-does-the-water-cement-ratio-affect-the-workability-and-strength-of,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-to-manage-cash-flow-effectively-in-slower-business-periods,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-does-steel-contribute-to-the-efficiency-of-industrial-racks-and-storage,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+types-of-cement-and-their-uses-in-construction-projects,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+why-should-you-consider-tmt-this-rainy-season-for-construction-projects,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-is-stainless-steel-utilised-in-the-automotive-and-transport-industries,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-are-the-advantages-of-portland-slag-cement,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+10-benefits-of-precision-and-accuracy-with-cut-to-length-services,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+why-choosing-quality-over-price-matters-when-it-comes-to-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+welcome-to-jsw-one-msme-buy-steel-online,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+structural-steel-connections-bolted-vs-welded-joints-pros-cons-and,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+best-practices-for-fabricating-solar-panel-frames-using-galvanised-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.936; metaDescription: 0.969; categoryName: 1.0; timeDuration: 1.0,metaTitle (Similarity: 0.94); metaDescription (Similarity: 0.97),,,"metaTitle:
 
     <table class=""diff"" id=""difflib_chg_to8__top""
            cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
@@ -153,7 +242,8 @@ choosing-the-right-grade-of-wire-rod-for-your-specific-application,❌ Mismatch,
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaTitle</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaTitle</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to8__0""><a href=""#difflib_chg_to8__top"">t</a></td><td class=""diff_header"" id=""from8_1"">1</td><td nowrap=""nowrap"">choosing&nbsp;the&nbsp;right&nbsp;grade&nbsp;of&nbsp;wire&nbsp;rod&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;blog</td><td class=""diff_next""><a href=""#difflib_chg_to8__top"">t</a></td><td class=""diff_header"" id=""to8_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>choosing&nbsp;the&nbsp;right&nbsp;grade&nbsp;of&nbsp;wire&nbsp;rod&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;blog</td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to8__0""><a href=""#difflib_chg_to8__top"">t</a></td><td class=""diff_header"" id=""from8_1"">1</td><td nowrap=""nowrap"">why&nbsp;galvanised&nbsp;steel&nbsp;is&nbsp;the&nbsp;best&nbsp;choice&nbsp;for&nbsp;solar&nbsp;panel&nbsp;fram</td><td class=""diff_next""><a href=""#difflib_chg_to8__top"">t</a></td><td class=""diff_header"" id=""to8_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>why&nbsp;galvanised&nbsp;steel&nbsp;is&nbsp;the&nbsp;best&nbsp;choice&nbsp;for&nbsp;solar&nbsp;panel</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">es&nbsp;jsw&nbsp;one&nbsp;msme</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">&nbsp;frames&nbsp;jsw&nbsp;one&nbsp;msme</td></tr>
         </tbody>
     </table>
 metaDescription:
@@ -164,49 +254,53 @@ metaDescription:
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaDescription</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaDescription</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to9__0""><a href=""#difflib_chg_to9__top"">t</a></td><td class=""diff_header"" id=""from9_1"">1</td><td nowrap=""nowrap"">learn&nbsp;about&nbsp;different&nbsp;types&nbsp;of&nbsp;wire&nbsp;rods&nbsp;including&nbsp;carbon&nbsp;st</td><td class=""diff_next""><a href=""#difflib_chg_to9__top"">t</a></td><td class=""diff_header"" id=""to9_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>learn&nbsp;about&nbsp;different&nbsp;types&nbsp;of&nbsp;wire&nbsp;rods&nbsp;including&nbsp;carb</td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">eel&nbsp;alloy&nbsp;steel&nbsp;stainless&nbsp;steel&nbsp;and&nbsp;high&nbsp;low&nbsp;carbon&nbsp;variants</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">on&nbsp;steel&nbsp;alloy&nbsp;steel&nbsp;stainless&nbsp;steel&nbsp;and&nbsp;high&nbsp;low&nbsp;carbon&nbsp;var</td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">&nbsp;along&nbsp;with&nbsp;their&nbsp;applications</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">iants&nbsp;along&nbsp;with&nbsp;their&nbsp;applications</td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to9__0""><a href=""#difflib_chg_to9__top"">t</a></td><td class=""diff_header"" id=""from9_1"">1</td><td nowrap=""nowrap"">find&nbsp;out&nbsp;why&nbsp;hot&nbsp;dip&nbsp;galvanised&nbsp;steel&nbsp;is&nbsp;the&nbsp;preferred&nbsp;mater</td><td class=""diff_next""><a href=""#difflib_chg_to9__top"">t</a></td><td class=""diff_header"" id=""to9_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>find&nbsp;out&nbsp;why&nbsp;hot&nbsp;dip&nbsp;galvanised&nbsp;steel&nbsp;is&nbsp;the&nbsp;preferred&nbsp;</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ial&nbsp;for&nbsp;solar&nbsp;panel&nbsp;frames&nbsp;and&nbsp;how&nbsp;to&nbsp;optimise&nbsp;fabrication&nbsp;f</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">material&nbsp;for&nbsp;solar&nbsp;panel&nbsp;frames&nbsp;and&nbsp;how&nbsp;to&nbsp;optimise&nbsp;fabricat</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">or&nbsp;strength&nbsp;corrosion&nbsp;resistance&nbsp;and&nbsp;efficiency</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ion&nbsp;for&nbsp;strength&nbsp;corrosion&nbsp;resistance&nbsp;and&nbsp;efficiency</td></tr>
         </tbody>
     </table>"
-types-of-pillar-construction-techniques-and-materials-they-require,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-5-benefits-of-steel-bumpers-for-off-road-enthusiasts,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-does-steel-in-rail-infrastructure-enhance-the-strength-of-tracks,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-challenges-and-solutions-for-building-climate-resilience-in-cement,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-different-methods-of-galvanisation-to-enhance-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-impact-of-impurities-and-alloying-elements-on-the-mechanical-properties,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-cement-in-the-construction-of-high-rise-buildings-ensuring-structural,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-essential-precautions-for-storing-cement-during-monsoon-season,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-difference-between-renders-and-plasters-made-from-cement,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-are-the-signs-of-a-good-quality-tmt-bar,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-additives-in-concrete-improve-workability-and-durability,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-impact-of-micro-alloying-elements-on-the-properties-of-tmt-bars,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-concrete-spalling-causes-effects-and-repair,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-top-techniques-for-welding-tmt-bars,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-role-of-hot-rolled-steel-in-pre-engineered-buildings,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-embracing-sustainability-exploring-green-construction-and-its-materials,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-colour-coated-steel-the-perfect-blend-of-aesthetics-and-sustainability,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-why-are-soil-analysis-and-site-preparation-for-installing-steel-support,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-welcome-to-jsw-one-msme-buy-steel-online,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-tips-for-properly-mounting-solar-panels-with-steel-rails,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-impact-of-tmt-bar-grades-on-seismic-performance-in-high-risk-zones,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-peb-technology-for-large-scale-agricultural-projects,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-is-the-importance-of-proper-heat-treatment-in-steel-crankshaft,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-heat-treatments-and-their-impact-on-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-optimising-microstructure-in-hot-rolled-steel-for-springs,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-importance-of-steel-mounting-frames-in-solar-panel-installations,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-9-benefits-of-e-commerce-has-your-business-made-the-move-yet,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-galvalume-steel-supports-increased-energy-yield-in-solar-power,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-why-do-wire-rods-make-the-best-fasteners,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-why-cold-rolled-steel-is-essential-for-precision-auto-parts-manufacturing,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-budget-2025-a-defining-moment-for-the-construction-industry,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-understanding-the-art-of-cold-rolling-of-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-steel-fabrication-for-infrastructure,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-alkali-silica-reaction-in-cement-causes-and-mitigation-strategies,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-microstructural-analysis-of-tmt-bars-for-better-tensile-strength,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-to-estimate-the-cost-of-structural-steel-fabrication,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-steel-fabrication-techniques-influence-solar-panel-structure-quality,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-advantages-of-stainless-steel-for-fabrication-projects,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.0; metaDescription: 0.0; categoryName: 1.0; timeDuration: 0.0,metaTitle (Similarity: 0.00); metaDescription (Similarity: 0.00); timeDuration (Exact match required),,,"metaTitle:
+stainless-steel-in-solar-energy-use,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+balancing-weight-and-strength-for-optimal-performance-of-steel-truck-bodies,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+understanding-uniform-gauge-and-dimension-in-tmt-bars,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+steel-wire-rod-application-in-refrigerators,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-are-the-signs-of-a-good-quality-tmt-bar,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+advantage-cold-rolled-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-pli-scheme-specialty-steel-gets-special-incentives,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+cash-flow-challenges-faced-by-oems,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+tips-on-using-steel-in-the-design-and-construction-of-durable-industrial,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+5-benefits-of-steel-bumpers-for-off-road-enthusiasts,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+where-is-portland-pozzolana-cement-ppc-used,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-makes-galvalume-steel-ideal-during-monsoons,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+is-green-cement-the-future-of-sustainable-construction,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+building-a-strong-foundation-using-rebar-in-concrete-footings,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+enhancing-solar-panel-efficiency-with-steel-support-structures,❌ Missing,,,❌,,
+alternate-finance-what-are-your-options-as-an-msme,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+steel-sheets-and-metal-forming-in-the-automotive-industry,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+strategies-and-materials-for-rainy-season-corrosion-in-structural-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+differences-between-ordinary-portland-cement-opc-and-portland-pozzolana,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+cost-effective-steel-fabrication-solutions-for-small-businesses,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+comparing-hrpo-steel-to-other-steel-finishes,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+difference-between-hot-and-cold-rolled-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+factors-to-consider-when-making-nails-and-screws-made-from-wire-rods,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-importance-of-the-uts-ys-ratio-in-grading-tmt-bars,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+innovations-in-coated-steel-for-pebs-ppgl-gl-and-gp,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-steel-reinforcements-protect-passengers-in-a-crash,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+colour-coated-steel-the-perfect-blend-of-aesthetics-and-sustainability,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+stainless-steel-properties-and-how-they-change-with-nickel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+9-benefits-of-e-commerce-has-your-business-made-the-move-yet,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-to-incorporate-steel-cladding-in-industrial-buildings-for-aesthetic,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+understanding-mild-steel-a-technical-guide,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+comparative-analysis-between-galvanised-vs-galvalume-steel-for-solar-panels,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+5-applications-of-welded-wire-mesh,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+why-cold-rolled-steel-is-essential-for-precision-auto-parts-manufacturing,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+concrete-spalling-causes-effects-and-repair,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+steel-column-reinforcement-techniques-for-seismic-resistance,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-msmes-can-grow-their-customer-base-and-generate-leads-digitally,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+all-about-the-i-beams-in-construction,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+untitled-entry-2025-02-13-at-07-52-41,❌ Missing,,,❌,,
+the-importance-of-quality-control-in-peb-manufacturing,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-are-the-structural-loads-that-affect-steel-frame-buildings,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+steel-grades-used-in-the-automotive-industry,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.0; metaDescription: 0.0; categoryName: 0.0; timeDuration: 0.0,metaTitle (Similarity: 0.00); metaDescription (Similarity: 0.00); categoryName (Exact match required); timeDuration (Exact match required),,,"metaTitle:
 
     <table class=""diff"" id=""difflib_chg_to10__top""
            cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
@@ -231,15 +325,13 @@ metaDescription:
             <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">uring&nbsp;construction&nbsp;material&nbsp;requirements</span></td></tr>
         </tbody>
     </table>"
-why-choosing-quality-over-price-matters-when-it-comes-to-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-understanding-cement-cracks-causes-and-effective-solutions,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-are-the-advantages-and-uses-of-opc-cement,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-is-slab-beam-column-and-footing-construction,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-to-get-the-perfect-mirror-finish-for-stainless-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-benefits-of-using-crs-tmt-bars-in-coastal-construction-projects,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-to-enhance-the-durability-of-fasteners-using-steel-coatings,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-understanding-mild-steel-a-technical-guide,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-steel-solutions-for-meeting-emission-standards-in-the-auto-industry,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.936; metaDescription: 0.972; categoryName: 1.0; timeDuration: 0.0,metaTitle (Similarity: 0.94); metaDescription (Similarity: 0.97); timeDuration (Exact match required),,,"metaTitle:
+how-steel-is-used-in-the-automobile-industry-past-present-and-future,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+essential-precautions-for-storing-cement-during-monsoon-season,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-to-select-the-right-steel-for-engine-and-transmission-components,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-does-steel-in-rail-infrastructure-enhance-the-strength-of-tracks,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+key-considerations-when-designing-with-steel-in-modular-furniture,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-steel-endures-in-solar-applications,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+steel-the-fuel-behind-renewable-energy,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.0; metaDescription: 0.0; categoryName: 1.0; timeDuration: 1.0,metaTitle (Similarity: 0.00); metaDescription (Similarity: 0.00),,,"metaTitle:
 
     <table class=""diff"" id=""difflib_chg_to12__top""
            cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
@@ -247,8 +339,8 @@ steel-solutions-for-meeting-emission-standards-in-the-auto-industry,❌ Mismatch
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaTitle</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaTitle</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to12__0""><a href=""#difflib_chg_to12__top"">t</a></td><td class=""diff_header"" id=""from12_1"">1</td><td nowrap=""nowrap"">steel&nbsp;solutions&nbsp;for&nbsp;meeting&nbsp;emission&nbsp;standards&nbsp;in&nbsp;the&nbsp;auto&nbsp;i</td><td class=""diff_next""><a href=""#difflib_chg_to12__top"">t</a></td><td class=""diff_header"" id=""to12_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>steel&nbsp;solutions&nbsp;for&nbsp;meeting&nbsp;emission&nbsp;standards&nbsp;in&nbsp;the&nbsp;a</td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ndustry&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;blog</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">uto&nbsp;industry&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;blog</td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to12__0""><a href=""#difflib_chg_to12__top"">t</a></td><td class=""diff_header"" id=""from12_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to12__top"">t</a></td><td class=""diff_header"" id=""to12_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;buy&nbsp;steel&nbsp;online&nbsp;industrial&nbsp;materials&nbsp;marketplace&nbsp;jsw&nbsp;o</span></td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">ne&nbsp;msme</span></td></tr>
         </tbody>
     </table>
 metaDescription:
@@ -259,20 +351,55 @@ metaDescription:
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaDescription</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaDescription</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to13__0""><a href=""#difflib_chg_to13__top"">t</a></td><td class=""diff_header"" id=""from13_1"">1</td><td nowrap=""nowrap""><span class=""diff_chg"">learn</span>&nbsp;how&nbsp;msmes&nbsp;in&nbsp;the&nbsp;auto&nbsp;industry&nbsp;can&nbsp;leverage&nbsp;advanced&nbsp;s</td><td class=""diff_next""><a href=""#difflib_chg_to13__top"">t</a></td><td class=""diff_header"" id=""to13_1"">1</td><td nowrap=""nowrap""><span class=""diff_chg"">test&nbsp;learn</span>&nbsp;how&nbsp;msmes&nbsp;in&nbsp;the&nbsp;auto&nbsp;industry&nbsp;can&nbsp;leverage&nbsp;advan</td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">teel&nbsp;grades&nbsp;to&nbsp;meet&nbsp;evolving&nbsp;emission&nbsp;standards&nbsp;discover&nbsp;lig</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ced&nbsp;steel&nbsp;grades&nbsp;to&nbsp;meet&nbsp;evolving&nbsp;emission&nbsp;standards&nbsp;discove</td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">htweight&nbsp;durable&nbsp;and&nbsp;sustainable&nbsp;steel&nbsp;solutions&nbsp;tailored&nbsp;fo</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">r&nbsp;lightweight&nbsp;durable&nbsp;and&nbsp;sustainable&nbsp;steel&nbsp;solutions&nbsp;tailor</td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">r&nbsp;traditional&nbsp;and&nbsp;electric&nbsp;vehicles</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ed&nbsp;for&nbsp;traditional&nbsp;and&nbsp;electric&nbsp;vehicles</td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to13__0""><a href=""#difflib_chg_to13__top"">t</a></td><td class=""diff_header"" id=""from13_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to13__top"">t</a></td><td class=""diff_header"" id=""to13_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;buy&nbsp;the&nbsp;best&nbsp;quality&nbsp;steel&nbsp;welding&nbsp;consumables&nbsp;tmt&nbsp;and&nbsp;</span></td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">cement&nbsp;online&nbsp;at&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;the&nbsp;online&nbsp;marketplace&nbsp;for&nbsp;man</span></td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">ufacturing&nbsp;construction&nbsp;material&nbsp;requirements</span></td></tr>
         </tbody>
     </table>"
-how-to-manage-cash-flow-effectively-in-slower-business-periods,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-practical-tips-to-optimise-cash-rotation-for-msmes-in-the-steel-industry,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-cement-in-railway-infrastructure,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-budget-2025-msmes-key-changes-and-strategic-insights,❌ Mismatch,content: 0.998; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-heat-treated-steel-in-engine-components-benefits-and-applications,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-basics-you-need-to-know-about-peb-industrial-shed-and-factory-building,❌ Missing,,,❌,,
-best-practices-for-column-construction,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-to-select-the-right-welding-rod,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.0; metaDescription: 0.0; categoryName: 1.0; timeDuration: 0.0,metaTitle (Similarity: 0.00); metaDescription (Similarity: 0.00); timeDuration (Exact match required),,,"metaTitle:
+innovations-in-steel-coatings-and-surface-treatments-for-improved-durability,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+Why-cold-rolled-steel-is-essential-for-precision-industrial-and-machinery-parts-manufacturing,❌ Missing,,,❌,,
+comparison-of-wire-rod-and-other-materials-in-pre-stressed-concrete,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+best-practices-for-column-construction,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+why-do-wire-rods-make-the-best-fasteners,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+stainless-steel-a-true-story-of-strength-and-resilience,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+stainless-steel-surface-finishes-and-their-applications,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-are-the-advantages-of-steel-in-seismic-resistant-industrial,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-to-consider-when-pouring-concrete-in-monsoon,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+challenges-and-solutions-for-building-climate-resilience-in-cement,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+peb-structures-how-steel-grades-and-coatings-make-a-difference,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+types-of-pillar-construction-techniques-and-materials-they-require,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+2021-steel-trends-in-the-construction-industry,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-should-you-consider-when-you-buy-steel-online,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-msmes-can-leverage-high-quality-steel-to-reduce-vehicle-recall-risks,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+optimising-microstructure-in-hot-rolled-steel-for-springs,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+cement-durability-tests-for-extreme-weather-conditions,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+contractors-guide-to-storing-and-handling-tmt-steel-and-cement,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+galvanised-vs-stainless-steel-what-steel-to-use-where-for-your-fabrication,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-challenges-faced-by-procurement-managers-and-their-solutions,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-to-prevent-construction-sites-from-water-logging,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+designing-earthquake-resistant-infrastructure-the-critical-role-of-cement,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-to-estimate-the-cost-of-structural-steel-fabrication,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+6-things-to-keep-in-mind-when-buying-steel-online,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-impact-of-steel-quality-on-solar-panel-durability,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+comparing-cement-types-opc-ppc-and-psc-which-is-best-for-your-project,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-importance-of-steel-mounting-frames-in-solar-panel-installations,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-is-the-benefit-of-trade-accounts-receivable,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+cracking-the-motorcycle-code-5-important-steels-used-in-two-wheelers,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+factors-impacting-tmt-prices,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+safeguards-to-consider-when-powder-coating-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+galvanised-plain-sheets-in-automotive-manufacturing,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-msmes-can-leverage-steel-to-improve-safety-in-auto-components,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+hot-rolled-steel-versatile-like-no-other,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+rising-input-costs-and-unstable-steel-prices-a-concern-for-appliance,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+credit-options-for-msmes-in-the-manufacturing-and-infrastructure-sectors,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+cement-vs-concrete-vs-mortar-choosing-the-right-material-for-the-job-,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+cement-materials-and-manufacturing-process,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-steel-trusses-strengthen-the-roof-structure-of-pebs,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-difference-between-tmt-bar-and-round-ms-bar,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+digital-lending-options-for-msmes-in-india,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+difference-between-steel-beams-and-columns,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-are-your-options-for-steel-plates,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+is-the-real-estate-industry-set-to-bounce-back-in-2022,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.932; metaDescription: 0.976; categoryName: 1.0; timeDuration: 1.0,metaTitle (Similarity: 0.93); metaDescription (Similarity: 0.98),,,"metaTitle:
 
     <table class=""diff"" id=""difflib_chg_to14__top""
            cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
@@ -280,8 +407,8 @@ how-to-select-the-right-welding-rod,❌ Mismatch,content: 1.0; title: 1.0; metaT
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaTitle</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaTitle</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to14__0""><a href=""#difflib_chg_to14__top"">t</a></td><td class=""diff_header"" id=""from14_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to14__top"">t</a></td><td class=""diff_header"" id=""to14_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;steel&nbsp;online&nbsp;industrial&nbsp;materials&nbsp;marketplace&nbsp;jsw&nbsp;one&nbsp;ms</span></td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">me</span></td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to14__0""><a href=""#difflib_chg_to14__top"">t</a></td><td class=""diff_header"" id=""from14_1"">1</td><td nowrap=""nowrap"">real&nbsp;estate&nbsp;industry&nbsp;and&nbsp;its&nbsp;bounce&nbsp;back&nbsp;in&nbsp;2022&nbsp;jsw&nbsp;one&nbsp;msm</td><td class=""diff_next""><a href=""#difflib_chg_to14__top"">t</a></td><td class=""diff_header"" id=""to14_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>real&nbsp;estate&nbsp;industry&nbsp;and&nbsp;its&nbsp;bounce&nbsp;back&nbsp;in&nbsp;2022&nbsp;jsw&nbsp;on</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">e&nbsp;blog</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">e&nbsp;msme&nbsp;blog</td></tr>
         </tbody>
     </table>
 metaDescription:
@@ -292,50 +419,12 @@ metaDescription:
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaDescription</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaDescription</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to15__0""><a href=""#difflib_chg_to15__top"">t</a></td><td class=""diff_header"" id=""from15_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to15__top"">t</a></td><td class=""diff_header"" id=""to15_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;the&nbsp;best&nbsp;quality&nbsp;steel&nbsp;welding&nbsp;consumables&nbsp;tmt&nbsp;and&nbsp;cemen</span></td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">t&nbsp;online&nbsp;at&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;the&nbsp;online&nbsp;marketplace&nbsp;for&nbsp;manufact</span></td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">uring&nbsp;construction&nbsp;material&nbsp;requirements</span></td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to15__0""><a href=""#difflib_chg_to15__top"">t</a></td><td class=""diff_header"" id=""from15_1"">1</td><td nowrap=""nowrap"">covid&nbsp;19&nbsp;greatly&nbsp;impacted&nbsp;the&nbsp;real&nbsp;estate&nbsp;sector&nbsp;and&nbsp;brought</td><td class=""diff_next""><a href=""#difflib_chg_to15__top"">t</a></td><td class=""diff_header"" id=""to15_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>covid&nbsp;19&nbsp;greatly&nbsp;impacted&nbsp;the&nbsp;real&nbsp;estate&nbsp;sector&nbsp;and&nbsp;br</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">&nbsp;growth&nbsp;to&nbsp;a&nbsp;sudden&nbsp;halt&nbsp;read&nbsp;on&nbsp;to&nbsp;know&nbsp;in&nbsp;detail&nbsp;about&nbsp;the</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ought&nbsp;growth&nbsp;to&nbsp;a&nbsp;sudden&nbsp;halt&nbsp;read&nbsp;on&nbsp;to&nbsp;know&nbsp;in&nbsp;detail&nbsp;abou</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">&nbsp;real&nbsp;estate&nbsp;industry&nbsp;and&nbsp;its&nbsp;growth</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">t&nbsp;the&nbsp;real&nbsp;estate&nbsp;industry&nbsp;and&nbsp;its&nbsp;growth</td></tr>
         </tbody>
     </table>"
-how-to-avoid-the-cracks-in-a-wall-or-column-for-high-strength-concrete,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-tmt-bars-in-residential-construction,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-a-guide-for-contractors-to-ensure-quality-in-construction,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-steel-column-reinforcement-techniques-for-seismic-resistance,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-do-you-restore-galvanised-metal,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-iso-certification-9000-versus-9001-what-is-the-difference-iso-certifications,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-advantages-of-using-hot-rolled-steel-in-large-scale-peb-projects,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-effect-of-strain-rate-and-temperature-on-the-mechanical-behaviour-of,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 0.0; timeDuration: 1.0,categoryName (Exact match required),,,
-how-can-you-safeguard-steel-mounting-frames-against-wind-to-ensure-stability,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-advantages-of-peb-structures-for-industrial-applications,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-8-common-concrete-problems-and-how-to-solve-them,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-different-types-of-stainless-steel-grades,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-steel-sourcing-for-msmes-how-to-ensure-consistent-quality-for-auto-parts,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-e250br-steel-enhances-industrial-equipment-durability,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-tips-and-tricks-to-lower-construction-costs,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-should-you-consider-when-you-buy-steel-online,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-applications-of-cold-rolled-steel-in-structural-furniture-elements,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-role-of-grain-boundaries-in-the-mechanical-properties-of-cold-rolled,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-crucial-role-of-hot-rolled-steel-in-pre-engineered-buildings,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-role-of-nickel-in-stainless-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-strategies-and-materials-for-rainy-season-corrosion-in-structural-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-msmes-can-grow-their-customer-base-and-generate-leads-digitally,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-designing-earthquake-resistant-infrastructure-the-critical-role-of-cement,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-Why-cold-rolled-steel-is-essential-for-precision-industrial-and-machinery-parts-manufacturing,❌ Missing,,,❌,,
-the-pli-scheme-specialty-steel-gets-special-incentives,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-are-the-chemical-properties-of-different-types-of-cement-and-how-do,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-innovations-in-coated-steel-for-pebs-ppgl-gl-and-gp,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-difference-between-galvanized-and-galvalume,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-difference-between-tmt-bar-and-round-ms-bar,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-cold-rolled-steel-in-the-automobile-industry,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-concrete-vs-cement-a-comprehensive-comparison,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-understanding-the-application-of-pre-engineered-buildings-for-large-scale-indian-projects,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-factors-to-consider-when-making-nails-and-screws-made-from-wire-rods,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-cement-durability-tests-for-extreme-weather-conditions,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-is-annealing-in-steel-and-what-are-its-benefits-in-the-peb-industry,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-8-factors-to-consider-before-buying-cement,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-is-stainless-steel-utilised-in-the-automotive-and-transport-industries,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-why-and-how-msmes-are-contributing-largely-to-indias-economic-growth,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-essential-tips-to-buy-colour-coated-sheets,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.0; metaDescription: 0.0; categoryName: 1.0; timeDuration: 0.0,metaTitle (Similarity: 0.00); metaDescription (Similarity: 0.00); timeDuration (Exact match required),,,"metaTitle:
+budget-2025-a-defining-moment-for-the-construction-industry,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.927; metaDescription: 0.968; categoryName: 1.0; timeDuration: 1.0,metaTitle (Similarity: 0.93); metaDescription (Similarity: 0.97),,,"metaTitle:
 
     <table class=""diff"" id=""difflib_chg_to16__top""
            cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
@@ -343,8 +432,8 @@ essential-tips-to-buy-colour-coated-sheets,❌ Mismatch,content: 1.0; title: 1.0
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaTitle</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaTitle</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to16__0""><a href=""#difflib_chg_to16__top"">t</a></td><td class=""diff_header"" id=""from16_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to16__top"">t</a></td><td class=""diff_header"" id=""to16_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;steel&nbsp;online&nbsp;industrial&nbsp;materials&nbsp;marketplace&nbsp;jsw&nbsp;one&nbsp;ms</span></td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">me</span></td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to16__0""><a href=""#difflib_chg_to16__top"">t</a></td><td class=""diff_header"" id=""from16_1"">1</td><td nowrap=""nowrap"">budget&nbsp;2025&nbsp;and&nbsp;the&nbsp;future&nbsp;of&nbsp;india&nbsp;s&nbsp;construction&nbsp;industry&nbsp;</td><td class=""diff_next""><a href=""#difflib_chg_to16__top"">t</a></td><td class=""diff_header"" id=""to16_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>budget&nbsp;2025&nbsp;and&nbsp;the&nbsp;future&nbsp;of&nbsp;india&nbsp;s&nbsp;construction&nbsp;indu</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">jsw&nbsp;one&nbsp;msme</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">stry&nbsp;jsw&nbsp;one&nbsp;msme</td></tr>
         </tbody>
     </table>
 metaDescription:
@@ -355,112 +444,12 @@ metaDescription:
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaDescription</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaDescription</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to17__0""><a href=""#difflib_chg_to17__top"">t</a></td><td class=""diff_header"" id=""from17_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to17__top"">t</a></td><td class=""diff_header"" id=""to17_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;the&nbsp;best&nbsp;quality&nbsp;steel&nbsp;welding&nbsp;consumables&nbsp;tmt&nbsp;and&nbsp;cemen</span></td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">t&nbsp;online&nbsp;at&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;the&nbsp;online&nbsp;marketplace&nbsp;for&nbsp;manufact</span></td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">uring&nbsp;construction&nbsp;material&nbsp;requirements</span></td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to17__0""><a href=""#difflib_chg_to17__top"">t</a></td><td class=""diff_header"" id=""from17_1"">1</td><td nowrap=""nowrap"">how&nbsp;will&nbsp;budget&nbsp;2025&nbsp;impact&nbsp;india&nbsp;s&nbsp;construction&nbsp;industry&nbsp;fr</td><td class=""diff_next""><a href=""#difflib_chg_to17__top"">t</a></td><td class=""diff_header"" id=""to17_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>how&nbsp;will&nbsp;budget&nbsp;2025&nbsp;impact&nbsp;india&nbsp;s&nbsp;construction&nbsp;indust</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">om&nbsp;raw&nbsp;material&nbsp;pricing&nbsp;to&nbsp;government&nbsp;investments&nbsp;explore&nbsp;th</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ry&nbsp;from&nbsp;raw&nbsp;material&nbsp;pricing&nbsp;to&nbsp;government&nbsp;investments&nbsp;explo</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">e&nbsp;key&nbsp;trends&nbsp;that&nbsp;will&nbsp;shape&nbsp;the&nbsp;sector&nbsp;s&nbsp;future</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">re&nbsp;the&nbsp;key&nbsp;trends&nbsp;that&nbsp;will&nbsp;shape&nbsp;the&nbsp;sector&nbsp;s&nbsp;future</td></tr>
         </tbody>
     </table>"
-heavy-vehicle-chassis-which-type-of-steel-should-you-use,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-comparing-hrpo-steel-to-other-steel-finishes,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-are-the-key-factors-in-selecting-steel-for-warehouse-racking-systems,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-black-stainless-steel-the-new-champion-in-appliance-manufacturing,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-advantages-of-building-steel-structures,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-building-a-strong-foundation-using-rebar-in-concrete-footings,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-your-complete-guide-to-purchasing-chequered-steel-plates,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-why-trade-credit-is-necessary-for-the-steel-industry,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-benefits-and-challenges-of-using-stainless-steel-in-marine-environments,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-to-consider-when-pouring-concrete-in-monsoon,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-to-cure-concrete-at-the-right-temperature,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-advanced-steel-materials-and-their-role-in-fuel-efficiency,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-alternate-finance-what-are-your-options-as-an-msme,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-steel-sheets-and-metal-forming-in-the-automotive-industry,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-challenges-faced-by-procurement-managers-and-their-solutions,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-why-is-quality-control-essential-in-steel-fabrication,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-galvanised-plain-sheets-in-automotive-manufacturing,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-applications-of-hrpo-is-1079-2017-hr2-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-durability-and-formability-key-characteristics-of-quality-in-peb,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-does-steel-contribute-to-the-efficiency-of-industrial-racks-and-storage,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-cement-vs-concrete-vs-mortar-choosing-the-right-material-for-the-job-,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-where-is-portland-pozzolana-cement-ppc-used,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-corrosion-is-a-common-challenge-in-steel-structures,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-pre-engineered-steel-building-systems-vs-conventional-buildings,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-hot-rolled-steel-is-used-in-large-peb-projects-like-warehouses,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-are-tmt-rebars-the-ultimate-money-saver-for-construction,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-makes-galvalume-steel-ideal-during-monsoons,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-a-comprehensive-guide-to-is-2062-e250a-plates,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-future-of-msmes-in-india-an-exploration,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-cement-materials-and-manufacturing-process,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-msmes-can-leverage-high-quality-steel-to-reduce-vehicle-recall-risks,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-steel-selection-for-high-performance-vehicles,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-difference-between-hot-and-cold-rolled-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-are-the-types-of-steel-columns-used-in-construction,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-can-we-maximise-the-efficiency-of-steel-solar-trackers,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-is-tempering-of-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-transport-sector-and-logistics-why-automation-is-the-need-of-the-hour,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-cost-effective-steel-fabrication-solutions-for-small-businesses,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-are-the-advantages-of-steel-in-seismic-resistant-industrial,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-your-ultimate-guide-to-maintaining-concrete-structures,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-safeguarding-manpower-and-machinery-during-rainy-season,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-wire-rods-in-automotive-manufacturing-applications-and-advantages,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 0.0; timeDuration: 0.0,categoryName (Exact match required); timeDuration (Exact match required),,,
-5-advantages-of-galvanised-steel-support-posts-in-solar-projects,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-advantage-cold-rolled-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-are-your-options-for-steel-plates,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-why-are-solar-panels-a-popular-choice-for-investment,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-tips-for-ensuring-high-quality-cement-plastering-work,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-steel-wire-rod-application-in-refrigerators,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-to-incorporate-steel-cladding-in-industrial-buildings-for-aesthetic,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-2021-steel-trends-in-the-construction-industry,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-impact-of-steel-quality-on-solar-panel-durability,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-to-overcome-welding-challenges-with-tmt-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-msmes-can-minimise-steel-waste-during-solar-panel-manufacturing,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-corrosion-fatigue-in-tmt-bars-causes-and-prevention-methods,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-adhesion-challenges-and-solutions-for-cement-based-materials,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-comparison-of-wire-rod-and-other-materials-in-pre-stressed-concrete,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-innovations-in-steel-coatings-and-surface-treatments-for-improved-durability,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-are-the-structural-loads-that-affect-steel-frame-buildings,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-best-cement-for-plastering-your-house,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-understanding-uniform-gauge-and-dimension-in-tmt-bars,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-managing-bulk-procurement-challenges-in-tmt-delivery,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-optimising-trade-and-cash-flow-for-msmes-with-off-balance-sheet-options,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-is-the-benefit-of-trade-accounts-receivable,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-journey-of-steel-from-start-to-finish,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-10-types-of-tests-on-cement-to-check-the-quality,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-peb-structures-how-steel-grades-and-coatings-make-a-difference,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-to-check-the-quality-of-cement-before-you-begin-construction,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-economics-of-using-fewer-tmt-bars-in-high-strength-construction-projects,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-balancing-weight-and-strength-for-optimal-performance-of-steel-truck-bodies,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-exploring-is-513-cr2-cold-rolled-steels-versatility,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-tmt-steel-manufacturing-process-a-comprehensive-guide,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-does-the-water-cement-ratio-affect-the-workability-and-strength-of,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-steel-reinforcement-strengthens-ground-mounted-solar-panels,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-comparing-cement-types-opc-ppc-and-psc-which-is-best-for-your-project,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-safeguards-to-consider-when-powder-coating-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-can-you-over-reinforce-concrete,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-stainless-steel-surface-finishes-and-their-applications,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-6-things-to-keep-in-mind-when-buying-steel-online,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-when-should-you-take-a-loan,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-benefits-of-steel-cladding-sheets-in-construction-projects,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-to-optimise-energy-efficiency-in-industrial-buildings-with-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-differences-between-ordinary-portland-cement-opc-and-portland-pozzolana,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-repair-of-rcc-structures-techniques-and-materials-used,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-is-green-cement-the-future-of-sustainable-construction,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-tmt-bars-the-building-blocks-of-modern-construction,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-construction-versus-natural-disasters-how-do-tmt-bars-protect,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-galvalume-or-galvanized-steel-which-to-choose-for-automotive-use,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-a-look-into-the-multifaceted-applications-of-colour-coated-steel-sheets,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-contractors-guide-to-storing-and-handling-tmt-steel-and-cement,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-difference-between-steel-beams-and-columns,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-are-the-various-grades-of-opc,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-hot-rolled-steel-crash-barriers-installation-techniques-and-best-practices,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-consumables-corner-role-of-welding-consumables-in-the-construction-industry,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-understanding-letters-of-credit-lc-and-their-role-in-supporting-msmes,❌ Missing,,,❌,,
-all-about-eclgs-credit-scheme-for-msmes-hit-by-the-covid-19-pandemic,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-storage-solutions-with-coated-gi-steel-benefits-and-applications,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-applications-of-prestressed-concrete,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-10-tips-for-maintaining-steel-springs-for-optimal-suspension-performance,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-are-the-advantages-of-portland-slag-cement,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-to-prevent-construction-sites-from-water-logging,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-digitisation-of-steel-changing-the-industry-for-the-better,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.921; metaDescription: 0.976; categoryName: 1.0; timeDuration: 0.0,metaTitle (Similarity: 0.92); metaDescription (Similarity: 0.98); timeDuration (Exact match required),,,"metaTitle:
+innovative-steel-applications-for-lightweight-electric-vehicle-components,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.724; metaDescription: 0.958; categoryName: 1.0; timeDuration: 1.0,metaTitle (Similarity: 0.72); metaDescription (Similarity: 0.96),,,"metaTitle:
 
     <table class=""diff"" id=""difflib_chg_to18__top""
            cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
@@ -468,7 +457,8 @@ the-digitisation-of-steel-changing-the-industry-for-the-better,❌ Mismatch,cont
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaTitle</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaTitle</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to18__0""><a href=""#difflib_chg_to18__top"">t</a></td><td class=""diff_header"" id=""from18_1"">1</td><td nowrap=""nowrap"">buy&nbsp;steel&nbsp;online&nbsp;steel&nbsp;digitization&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;blog</td><td class=""diff_next""><a href=""#difflib_chg_to18__top"">t</a></td><td class=""diff_header"" id=""to18_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>buy&nbsp;steel&nbsp;online&nbsp;steel&nbsp;digitization&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;blog</td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to18__0""><a href=""#difflib_chg_to18__top"">t</a></td><td class=""diff_header"" id=""from18_1"">1</td><td nowrap=""nowrap"">the&nbsp;role&nbsp;of&nbsp;advanced&nbsp;steel&nbsp;in&nbsp;lightweight&nbsp;electric&nbsp;vehicle&nbsp;d</td><td class=""diff_next""><a href=""#difflib_chg_to18__top"">t</a></td><td class=""diff_header"" id=""to18_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>the&nbsp;role&nbsp;of&nbsp;advanced&nbsp;steel&nbsp;in&nbsp;lightweight&nbsp;electric&nbsp;vehi</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">esign<span class=""diff_sub"">&nbsp;jsw&nbsp;one&nbsp;msme</span></td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">cle&nbsp;design</td></tr>
         </tbody>
     </table>
 metaDescription:
@@ -479,58 +469,13 @@ metaDescription:
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaDescription</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaDescription</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to19__0""><a href=""#difflib_chg_to19__top"">t</a></td><td class=""diff_header"" id=""from19_1"">1</td><td nowrap=""nowrap"">the&nbsp;digitization&nbsp;of&nbsp;steel&nbsp;is&nbsp;definitely&nbsp;changing&nbsp;the&nbsp;industr</td><td class=""diff_next""><a href=""#difflib_chg_to19__top"">t</a></td><td class=""diff_header"" id=""to19_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>the&nbsp;digitization&nbsp;of&nbsp;steel&nbsp;is&nbsp;definitely&nbsp;changing&nbsp;the&nbsp;in</td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">y&nbsp;for&nbsp;better&nbsp;read&nbsp;on&nbsp;to&nbsp;know&nbsp;more&nbsp;about&nbsp;how&nbsp;digitisation&nbsp;has</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">dustry&nbsp;for&nbsp;better&nbsp;read&nbsp;on&nbsp;to&nbsp;know&nbsp;more&nbsp;about&nbsp;how&nbsp;digitisatio</td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">&nbsp;enabled&nbsp;the&nbsp;steel&nbsp;sellers&nbsp;to&nbsp;evolve&nbsp;better</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">n&nbsp;has&nbsp;enabled&nbsp;the&nbsp;steel&nbsp;sellers&nbsp;to&nbsp;evolve&nbsp;better</td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to19__0""><a href=""#difflib_chg_to19__top"">t</a></td><td class=""diff_header"" id=""from19_1"">1</td><td nowrap=""nowrap"">explore&nbsp;how&nbsp;advanced&nbsp;steel&nbsp;technologies&nbsp;are&nbsp;creating&nbsp;lightwe</td><td class=""diff_next""><a href=""#difflib_chg_to19__top"">t</a></td><td class=""diff_header"" id=""to19_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>explore&nbsp;how&nbsp;advanced&nbsp;steel&nbsp;technologies&nbsp;are&nbsp;creating&nbsp;li</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ight&nbsp;ev&nbsp;components&nbsp;boosting&nbsp;performance&nbsp;safety&nbsp;and&nbsp;eco&nbsp;frien</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ghtweight&nbsp;ev&nbsp;components&nbsp;boosting&nbsp;performance&nbsp;safety&nbsp;and&nbsp;eco&nbsp;</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">dliness&nbsp;in&nbsp;the&nbsp;race&nbsp;for&nbsp;greener&nbsp;transport</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">friendliness&nbsp;in&nbsp;the&nbsp;race&nbsp;for&nbsp;greener&nbsp;transport</td></tr>
         </tbody>
     </table>"
-what-to-pick-steel-copper-brass-or-bronze,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-role-of-coated-steel-in-solar-panel-manufacturing,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-to-select-the-right-steel-for-engine-and-transmission-components,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-thermal-performance-of-steel-framed-prefabricated-buildings,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-modern-methods-of-testing-steel-quality,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-stainless-steel-a-true-story-of-strength-and-resilience,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-types-of-cement-and-their-uses-in-construction-projects,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-to-select-the-right-tmt-for-your-project,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-steel-vs-concrete-support-structures-for-solar-panel-installations,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-uses-of-steel-cladding-sheets,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-electric-vehicle-boom-in-india-opportunities-for-the-msmes-to-catalyse-the,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-access-to-prime-capital-via-anchors-like-jsw-one,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-does-the-hydration-process-of-cement-work-and-why-is-it-crucial,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-tips-on-using-steel-in-the-design-and-construction-of-durable-industrial,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-off-balance-sheet-financing-how-businesses-can-access-funds-without-adding,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-importance-of-the-uts-ys-ratio-in-grading-tmt-bars,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-corrosion-resistant-steel-coatings-for-auto-parts-in-harsh-indian-climates,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-hot-rolled-steel-versatile-like-no-other,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-steel-ground-mounts-vs-roof-mounts-what-are-the-pros-and-cons,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-are-the-factors-that-contribute-to-the-quality-of-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-galvanized-steel-an-indispensable-material-for-the-future-of-the-automotive,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-strategies-for-traders-and-distributors-to-master-cash-flow,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-steel-stamping-impacts-precision-in-auto-parts-production,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-economic-benefits-of-using-tmt-bars-in-infrastructure-projects,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-stainless-steel-properties-and-how-they-change-with-nickel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-industrial-applications-of-prepainted-galvalume,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-steel-lifeline-of-the-hvac-industry,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-why-are-the-wire-rods-on-the-jsw-one-msme-platform-ideal-for-electrical-use,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-steel-marketwatch-july-2022,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-contemporary-uses-of-mild-steel,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-steel-wire-rods-linchpins-of-the-automotive-industry,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-industry-4-0-are-indian-msmes-all-set-for-the-next-wave-of-industrialization,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 0.0; timeDuration: 0.0,categoryName (Exact match required); timeDuration (Exact match required),,,
-tmt-vs-tmx-vs-hysd,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-role-of-steel-in-enhancing-noise-vibration-and-harshness-nvh-vehicle,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-all-about-the-i-beams-in-construction,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-impact-of-tmt-bar-quality-on-building-durability,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-why-steel-remains-the-preferred-material-for-chassis-manufacturing-in-india,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-importance-of-carbon-content-in-steel-for-industrial-applications,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-car-sales-are-accelerating-the-steel-sector,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-steel-trusses-strengthen-the-roof-structure-of-pebs,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-factors-impacting-tmt-prices,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-is-the-role-played-by-concrete-admixtures-in-modern-construction,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-from-paint-to-coating-evaluating-colour-coated-steel-and-traditional-painted,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-difference-between-ordinary-portland-cement-and-portland-slag-cement,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-what-is-an-autoclaved-aerated-concrete-acc-block,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-10-benefits-of-precision-and-accuracy-with-cut-to-length-services,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-steels-role-in-disaster-resilient-prefabricated-buildings,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.906; metaDescription: 0.958; categoryName: 1.0; timeDuration: 0.0,metaTitle (Similarity: 0.91); metaDescription (Similarity: 0.96); timeDuration (Exact match required),,,"metaTitle:
+budget-2025-msmes-key-changes-and-strategic-insights,✅ Valid,content: 0.998; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+steels-role-in-disaster-resilient-prefabricated-buildings,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.906; metaDescription: 0.958; categoryName: 1.0; timeDuration: 1.0,metaTitle (Similarity: 0.91); metaDescription (Similarity: 0.96),,,"metaTitle:
 
     <table class=""diff"" id=""difflib_chg_to20__top""
            cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
@@ -555,10 +500,18 @@ metaDescription:
             <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">als&nbsp;used&nbsp;cost&nbsp;factors&nbsp;and&nbsp;advantages</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">aterials&nbsp;used&nbsp;cost&nbsp;factors&nbsp;and&nbsp;advantages</td></tr>
         </tbody>
     </table>"
-key-considerations-when-designing-with-steel-in-modular-furniture,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-the-influence-of-water-cement-ratio-on-workability-and-strength,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-to-use-google-search-to-help-grow-your-business,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-why-should-you-buy-steel-from-a-trusted-supplier,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.0; metaDescription: 0.0; categoryName: 1.0; timeDuration: 0.0,metaTitle (Similarity: 0.00); metaDescription (Similarity: 0.00); timeDuration (Exact match required),,,"metaTitle:
+what-are-the-key-factors-in-selecting-steel-for-warehouse-racking-systems,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-future-of-msmes-in-india-an-exploration,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-hot-rolled-steel-is-used-in-large-peb-projects-like-warehouses,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+different-types-of-stainless-steel-grades,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-do-you-restore-galvanised-metal,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-crucial-role-of-hot-rolled-steel-in-pre-engineered-buildings,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+why-steel-remains-the-preferred-material-for-chassis-manufacturing-in-india,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+peb-technology-for-large-scale-agricultural-projects,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-future-of-steel-is-green-innovation-in-the-global-steel-industry,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-to-check-the-quality-of-cement-before-you-begin-construction,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+industrial-applications-of-prepainted-galvalume,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-digitisation-of-steel-changing-the-industry-for-the-better,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.921; metaDescription: 0.976; categoryName: 1.0; timeDuration: 1.0,metaTitle (Similarity: 0.92); metaDescription (Similarity: 0.98),,,"metaTitle:
 
     <table class=""diff"" id=""difflib_chg_to22__top""
            cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
@@ -566,8 +519,7 @@ why-should-you-buy-steel-from-a-trusted-supplier,❌ Mismatch,content: 1.0; titl
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaTitle</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaTitle</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to22__0""><a href=""#difflib_chg_to22__top"">t</a></td><td class=""diff_header"" id=""from22_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to22__top"">t</a></td><td class=""diff_header"" id=""to22_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;steel&nbsp;online&nbsp;industrial&nbsp;materials&nbsp;marketplace&nbsp;jsw&nbsp;one&nbsp;ms</span></td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">me</span></td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to22__0""><a href=""#difflib_chg_to22__top"">t</a></td><td class=""diff_header"" id=""from22_1"">1</td><td nowrap=""nowrap"">buy&nbsp;steel&nbsp;online&nbsp;steel&nbsp;digitization&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;blog</td><td class=""diff_next""><a href=""#difflib_chg_to22__top"">t</a></td><td class=""diff_header"" id=""to22_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>buy&nbsp;steel&nbsp;online&nbsp;steel&nbsp;digitization&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;blog</td></tr>
         </tbody>
     </table>
 metaDescription:
@@ -578,55 +530,151 @@ metaDescription:
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaDescription</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaDescription</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to23__0""><a href=""#difflib_chg_to23__top"">t</a></td><td class=""diff_header"" id=""from23_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to23__top"">t</a></td><td class=""diff_header"" id=""to23_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;the&nbsp;best&nbsp;quality&nbsp;steel&nbsp;welding&nbsp;consumables&nbsp;tmt&nbsp;and&nbsp;cemen</span></td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">t&nbsp;online&nbsp;at&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;the&nbsp;online&nbsp;marketplace&nbsp;for&nbsp;manufact</span></td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">uring&nbsp;construction&nbsp;material&nbsp;requirements</span></td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to23__0""><a href=""#difflib_chg_to23__top"">t</a></td><td class=""diff_header"" id=""from23_1"">1</td><td nowrap=""nowrap"">the&nbsp;digitization&nbsp;of&nbsp;steel&nbsp;is&nbsp;definitely&nbsp;changing&nbsp;the&nbsp;industr</td><td class=""diff_next""><a href=""#difflib_chg_to23__top"">t</a></td><td class=""diff_header"" id=""to23_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>the&nbsp;digitization&nbsp;of&nbsp;steel&nbsp;is&nbsp;definitely&nbsp;changing&nbsp;the&nbsp;in</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">y&nbsp;for&nbsp;better&nbsp;read&nbsp;on&nbsp;to&nbsp;know&nbsp;more&nbsp;about&nbsp;how&nbsp;digitisation&nbsp;has</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">dustry&nbsp;for&nbsp;better&nbsp;read&nbsp;on&nbsp;to&nbsp;know&nbsp;more&nbsp;about&nbsp;how&nbsp;digitisatio</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">&nbsp;enabled&nbsp;the&nbsp;steel&nbsp;sellers&nbsp;to&nbsp;evolve&nbsp;better</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">n&nbsp;has&nbsp;enabled&nbsp;the&nbsp;steel&nbsp;sellers&nbsp;to&nbsp;evolve&nbsp;better</td></tr>
         </tbody>
     </table>"
-how-hot-rolled-steel-makes-i-beams-resilient,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-cash-flow-challenges-faced-by-oems,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-the-pli-scheme-is-empowering-msmes-a-review,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-cement-applications-in-residential-construction,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-udyog-aadhar-what-is-it-and-how-can-you-get-one,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-tmt-steel-redefines-infrastructure-development,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-structural-steel-connections-bolted-vs-welded-joints-pros-cons-and,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-how-steel-is-used-in-the-automobile-industry-past-present-and-future,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
-navigating-supply-chain-disruptions-in-construction,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 0.0; categoryName: 1.0; timeDuration: 0.0,metaDescription (Similarity: 0.00); timeDuration (Exact match required),,,"metaDescription:
+practical-tips-to-optimise-cash-rotation-for-msmes-in-the-steel-industry,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+10-types-of-tests-on-cement-to-check-the-quality,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+galvalume-or-galvanized-steel-which-to-choose-for-automotive-use,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+cement-applications-in-residential-construction,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-galvalume-steel-supports-increased-energy-yield-in-solar-power,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.94; metaDescription: 0.965; categoryName: 1.0; timeDuration: 1.0,metaTitle (Similarity: 0.94); metaDescription (Similarity: 0.97),,,"metaTitle:
 
     <table class=""diff"" id=""difflib_chg_to24__top""
            cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
-        <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaDescription</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaDescription</th></tr></thead>
+        <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaTitle</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaTitle</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to24__0""><a href=""#difflib_chg_to24__top"">t</a></td><td class=""diff_header"" id=""from24_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to24__top"">t</a></td><td class=""diff_header"" id=""to24_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;the&nbsp;best&nbsp;quality&nbsp;steel&nbsp;welding&nbsp;consumables&nbsp;tmt&nbsp;and&nbsp;cemen</span></td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">t&nbsp;online&nbsp;at&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;the&nbsp;online&nbsp;marketplace&nbsp;for&nbsp;manufact</span></td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">uring&nbsp;construction&nbsp;material&nbsp;requirements</span></td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to24__0""><a href=""#difflib_chg_to24__top"">t</a></td><td class=""diff_header"" id=""from24_1"">1</td><td nowrap=""nowrap"">how&nbsp;galvalume&nbsp;steel&nbsp;supports&nbsp;increased&nbsp;energy&nbsp;yield&nbsp;in&nbsp;solar</td><td class=""diff_next""><a href=""#difflib_chg_to24__top"">t</a></td><td class=""diff_header"" id=""to24_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>how&nbsp;galvalume&nbsp;steel&nbsp;supports&nbsp;increased&nbsp;energy&nbsp;yield&nbsp;in&nbsp;</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">&nbsp;power&nbsp;installations&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;blog</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">solar&nbsp;power&nbsp;installations&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;blog</td></tr>
         </tbody>
-    </table>"
-steel-grades-used-in-the-automotive-industry,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.0; metaDescription: 0.0; categoryName: 0.0; timeDuration: 1.0,metaTitle (Similarity: 0.00); metaDescription (Similarity: 0.00); categoryName (Exact match required),,,"metaTitle:
+    </table>
+metaDescription:
 
     <table class=""diff"" id=""difflib_chg_to25__top""
            cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
-        <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaTitle</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaTitle</th></tr></thead>
+        <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaDescription</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaDescription</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to25__0""><a href=""#difflib_chg_to25__top"">t</a></td><td class=""diff_header"" id=""from25_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to25__top"">t</a></td><td class=""diff_header"" id=""to25_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;steel&nbsp;online&nbsp;industrial&nbsp;materials&nbsp;marketplace&nbsp;jsw&nbsp;one&nbsp;ms</span></td></tr>
-            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">me</span></td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to25__0""><a href=""#difflib_chg_to25__top"">t</a></td><td class=""diff_header"" id=""from25_1"">1</td><td nowrap=""nowrap"">buy&nbsp;the&nbsp;best&nbsp;quality&nbsp;steel&nbsp;welding&nbsp;consumables&nbsp;tmt&nbsp;and&nbsp;cemen</td><td class=""diff_next""><a href=""#difflib_chg_to25__top"">t</a></td><td class=""diff_header"" id=""to25_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">test&nbsp;</span>buy&nbsp;the&nbsp;best&nbsp;quality&nbsp;steel&nbsp;welding&nbsp;consumables&nbsp;tmt&nbsp;and&nbsp;</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">t&nbsp;online&nbsp;at&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;the&nbsp;online&nbsp;marketplace&nbsp;for&nbsp;manufact</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">cement&nbsp;online&nbsp;at&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;the&nbsp;online&nbsp;marketplace&nbsp;for&nbsp;man</td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">uring&nbsp;construction&nbsp;material&nbsp;requirements</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap"">ufacturing&nbsp;construction&nbsp;material&nbsp;requirements</td></tr>
         </tbody>
-    </table>
-metaDescription:
+    </table>"
+advantages-of-building-steel-structures,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+difference-between-renders-and-plasters-made-from-cement,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+steel-lifeline-of-the-hvac-industry,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-is-jsw-concreel-hd-cement,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+a-guide-for-contractors-to-ensure-quality-in-construction,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+budgeting-strategies-for-managing-cement-price-fluctuations,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+corrosion-fatigue-in-tmt-bars-causes-and-prevention-methods,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+understanding-cement-cracks-causes-and-effective-solutions,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+what-is-tempering-of-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-steel-wire-rods-power-your-vehicles,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-steel-reinforcements-improve-the-structural-integrity-of-solar-carports,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+when-should-you-take-a-loan,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+access-to-prime-capital-via-anchors-like-jsw-one,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+adhesion-challenges-and-solutions-for-cement-based-materials,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+essential-tips-to-buy-colour-coated-sheets,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.0; metaDescription: 0.0; categoryName: 1.0; timeDuration: 1.0,metaTitle (Similarity: 0.00); metaDescription (Similarity: 0.00),,,"metaTitle:
 
     <table class=""diff"" id=""difflib_chg_to26__top""
            cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
+        <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaTitle</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaTitle</th></tr></thead>
+        <tbody>
+            <tr><td class=""diff_next"" id=""difflib_chg_to26__0""><a href=""#difflib_chg_to26__top"">t</a></td><td class=""diff_header"" id=""from26_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to26__top"">t</a></td><td class=""diff_header"" id=""to26_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;steel&nbsp;online&nbsp;industrial&nbsp;materials&nbsp;marketplace&nbsp;jsw&nbsp;one&nbsp;ms</span></td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">me</span></td></tr>
+        </tbody>
+    </table>
+metaDescription:
+
+    <table class=""diff"" id=""difflib_chg_to27__top""
+           cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
+        <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
+        <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
         <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaDescription</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaDescription</th></tr></thead>
         <tbody>
-            <tr><td class=""diff_next"" id=""difflib_chg_to26__0""><a href=""#difflib_chg_to26__top"">t</a></td><td class=""diff_header"" id=""from26_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to26__top"">t</a></td><td class=""diff_header"" id=""to26_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;the&nbsp;best&nbsp;quality&nbsp;steel&nbsp;welding&nbsp;consumables&nbsp;tmt&nbsp;and&nbsp;cemen</span></td></tr>
+            <tr><td class=""diff_next"" id=""difflib_chg_to27__0""><a href=""#difflib_chg_to27__top"">t</a></td><td class=""diff_header"" id=""from27_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to27__top"">t</a></td><td class=""diff_header"" id=""to27_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;the&nbsp;best&nbsp;quality&nbsp;steel&nbsp;welding&nbsp;consumables&nbsp;tmt&nbsp;and&nbsp;cemen</span></td></tr>
             <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">t&nbsp;online&nbsp;at&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;the&nbsp;online&nbsp;marketplace&nbsp;for&nbsp;manufact</span></td></tr>
             <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">uring&nbsp;construction&nbsp;material&nbsp;requirements</span></td></tr>
         </tbody>
     </table>"
-credit-options-for-msmes-in-the-manufacturing-and-infrastructure-sectors,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 0.0,timeDuration (Exact match required),,,
+understanding-the-application-of-pre-engineered-buildings-for-large-scale-indian-projects,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+navigating-supply-chain-disruptions-in-construction,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 0.0; categoryName: 1.0; timeDuration: 1.0,metaDescription (Similarity: 0.00),,,"metaDescription:
+
+    <table class=""diff"" id=""difflib_chg_to28__top""
+           cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
+        <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
+        <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
+        <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaDescription</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaDescription</th></tr></thead>
+        <tbody>
+            <tr><td class=""diff_next"" id=""difflib_chg_to28__0""><a href=""#difflib_chg_to28__top"">t</a></td><td class=""diff_header"" id=""from28_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to28__top"">t</a></td><td class=""diff_header"" id=""to28_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;the&nbsp;best&nbsp;quality&nbsp;steel&nbsp;welding&nbsp;consumables&nbsp;tmt&nbsp;and&nbsp;cemen</span></td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">t&nbsp;online&nbsp;at&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;the&nbsp;online&nbsp;marketplace&nbsp;for&nbsp;manufact</span></td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">uring&nbsp;construction&nbsp;material&nbsp;requirements</span></td></tr>
+        </tbody>
+    </table>"
+safeguarding-manpower-and-machinery-during-rainy-season,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+embracing-sustainability-exploring-green-construction-and-its-materials,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+combating-the-steel-price-fluctuations-in-india-what-are-your-options-as-an,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-to-select-the-right-steel-for-your-project,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-role-of-coated-steel-in-solar-panel-manufacturing,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+advantages-of-stainless-steel-for-fabrication-projects,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 0.0; metaDescription: 0.0; categoryName: 1.0; timeDuration: 1.0,metaTitle (Similarity: 0.00); metaDescription (Similarity: 0.00),,,"metaTitle:
+
+    <table class=""diff"" id=""difflib_chg_to29__top""
+           cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
+        <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
+        <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
+        <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaTitle</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaTitle</th></tr></thead>
+        <tbody>
+            <tr><td class=""diff_next"" id=""difflib_chg_to29__0""><a href=""#difflib_chg_to29__top"">t</a></td><td class=""diff_header"" id=""from29_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to29__top"">t</a></td><td class=""diff_header"" id=""to29_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;steel&nbsp;online&nbsp;industrial&nbsp;materials&nbsp;marketplace&nbsp;jsw&nbsp;one&nbsp;ms</span></td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">me</span></td></tr>
+        </tbody>
+    </table>
+metaDescription:
+
+    <table class=""diff"" id=""difflib_chg_to30__top""
+           cellspacing=""0"" cellpadding=""0"" rules=""groups"" >
+        <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
+        <colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup>
+        <thead><tr><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Contentful metaDescription</th><th class=""diff_next""><br /></th><th colspan=""2"" class=""diff_header"">Strapi metaDescription</th></tr></thead>
+        <tbody>
+            <tr><td class=""diff_next"" id=""difflib_chg_to30__0""><a href=""#difflib_chg_to30__top"">t</a></td><td class=""diff_header"" id=""from30_1"">1</td><td nowrap=""nowrap""><span class=""diff_sub"">n&nbsp;a</span></td><td class=""diff_next""><a href=""#difflib_chg_to30__top"">t</a></td><td class=""diff_header"" id=""to30_1"">1</td><td nowrap=""nowrap""><span class=""diff_add"">buy&nbsp;the&nbsp;best&nbsp;quality&nbsp;steel&nbsp;welding&nbsp;consumables&nbsp;tmt&nbsp;and&nbsp;cemen</span></td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">t&nbsp;online&nbsp;at&nbsp;jsw&nbsp;one&nbsp;msme&nbsp;the&nbsp;online&nbsp;marketplace&nbsp;for&nbsp;manufact</span></td></tr>
+            <tr><td class=""diff_next""></td><td class=""diff_header""></td><td nowrap=""nowrap"">&nbsp;</td><td class=""diff_next""></td><td class=""diff_header"">></td><td nowrap=""nowrap""><span class=""diff_add"">uring&nbsp;construction&nbsp;material&nbsp;requirements</span></td></tr>
+        </tbody>
+    </table>"
+understanding-the-art-of-cold-rolling-of-steel,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-role-of-steel-columns-in-increasing-load-bearing-capacity-in-pebs,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-to-select-the-right-tmt-for-your-project,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+galvanised-and-galvalume-steel-for-roofing-and-cladding,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+difference-between-galvanized-and-galvalume,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+tips-for-ensuring-high-quality-cement-plastering-work,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+durability-and-formability-key-characteristics-of-quality-in-peb,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+uses-of-steel-cladding-sheets,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+corrosion-resistant-steel-coatings-for-auto-parts-in-harsh-indian-climates,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+heavy-vehicle-chassis-which-type-of-steel-should-you-use,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+hot-rolled-steel-crash-barriers-installation-techniques-and-best-practices,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+advanced-steel-materials-and-their-role-in-fuel-efficiency,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+tmt-bars-in-residential-construction,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-journey-of-steel-from-start-to-finish,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+strategies-for-traders-and-distributors-to-master-cash-flow,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+are-tmt-rebars-the-ultimate-money-saver-for-construction,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-can-we-maximise-the-efficiency-of-steel-solar-trackers,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+thermal-performance-of-steel-framed-prefabricated-buildings,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+can-you-over-reinforce-concrete,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+best-practices-for-welding-steel-in-auto-parts-manufacturing,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+pre-engineered-steel-building-systems-vs-conventional-buildings,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+steel-sourcing-for-msmes-how-to-ensure-consistent-quality-for-auto-parts,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-steel-fabrication-techniques-influence-solar-panel-structure-quality,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-role-of-cement-in-the-durability-of-bridges-and-flyovers,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+role-of-steel-in-enhancing-noise-vibration-and-harshness-nvh-vehicle,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-advantages-of-peb-structures-for-industrial-applications,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-can-you-safeguard-steel-mounting-frames-against-wind-to-ensure-stability,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+the-economics-of-using-fewer-tmt-bars-in-high-strength-construction-projects,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+how-additives-in-concrete-improve-workability-and-durability,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,
+wire-rods-in-automotive-manufacturing-applications-and-advantages,❌ Mismatch,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 0.0; timeDuration: 1.0,categoryName (Exact match required),,,
+steel-wire-rods-linchpins-of-the-automotive-industry,✅ Valid,content: 1.0; title: 1.0; metaTitle: 1.0; metaDescription: 1.0; categoryName: 1.0; timeDuration: 1.0,,,,

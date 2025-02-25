@@ -110,7 +110,7 @@ def process_json(json_file_path, csv_file):
 
 # Run the script
 if __name__ == "__main__":
-    json_path = "Prod/data/newcontent.json"
+    json_path = "Prod/data/content.json"
     output_csv = "Prod/csv/updateextracted_contentful_data.csv"
     process_json(json_path, output_csv)
 

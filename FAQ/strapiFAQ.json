@@ -4,13 +4,13 @@
             "id": 77,
             "attributes": {
                 "title": "How can I pay for my order?",
-                "description": "Test - You can pay for your order through a link shared with you by your sales representative during the order confirmation process. In case you have any queries on the same, please get in touch with your sales representative. ",
+                "description": "You can pay for your order through a link shared with you by your sales representative during the order confirmation process. In case you have any queries on the same, please get in touch with your sales representative. ",
                 "slug": "how-can-i-pay-for-my-order",
-                "metaTitle": "Test - How to Pay for Your Order | JSW One MSME Support",
-                "metaDescription": "Test - Learn the various payment methods available for your order at JSW One MSME. Visit our support page for detailed instructions on completing your payment.",
+                "metaTitle": "How to Pay for Your Order | JSW One MSME Support",
+                "metaDescription": "Learn the various payment methods available for your order at JSW One MSME. Visit our support page for detailed instructions on completing your payment.",
                 "contentfulId": "1Plt8lEeAw0c6eQaW53c7E",
                 "createdAt": "2025-01-15T10:48:41.929Z",
-                "updatedAt": "2025-02-10T04:45:54.666Z",
+                "updatedAt": "2025-02-19T08:12:07.914Z",
                 "publishedAt": "2025-01-15T10:48:42.214Z",
                 "images": {
                     "data": null
@@ -304,13 +304,13 @@
             "id": 82,
             "attributes": {
                 "title": "How will I be notified of existing and upcoming offers?",
-                "description": "Test Register with us to stay up-to-date on all our offers and discounts.\n\nClick on the 'Register' button at the top right side of our home page. Fill in the form using your name, mobile number, email address and company GSTIN and click 'Submit'.",
+                "description": "Register with us to stay up-to-date on all our offers and discounts.\n\nClick on the 'Register' button at the top right side of our home page. Fill in the form using your name, mobile number, email address and company GSTIN and click 'Submit'.",
                 "slug": "how-will-i-be-notified-of-existing-and-upcoming-offers",
-                "metaTitle": "Test Register to Stay Informed on Offers about Steel, Cement, TMT and MOre| JSW One MSME Support",
-                "metaDescription": "Test Learn how to get notifications about existing and upcoming offers at JSW One MSME. Visit our support page for details on staying updated with the latest deals.",
+                "metaTitle": "Register to Stay Informed on Offers about Steel, Cement, TMT and MOre| JSW One MSME Support",
+                "metaDescription": "Learn how to get notifications about existing and upcoming offers at JSW One MSME. Visit our support page for details on staying updated with the latest deals.",
                 "contentfulId": "6EiFwREGSq02E0b7rqP1RD",
                 "createdAt": "2025-01-15T10:49:14.955Z",
-                "updatedAt": "2025-02-12T07:17:30.581Z",
+                "updatedAt": "2025-02-19T08:22:07.029Z",
                 "publishedAt": "2025-01-15T10:49:15.044Z",
                 "images": {
                     "data": null
@@ -546,11 +546,11 @@
                 "title": "I have a weighment gap; what do I do? ",
                 "description": "In cases where the weight discrepancy exceeds the tolerance limit (+/-0.5% of the invoiced weight), re-weighing of the vehicle is permissible. Such re-weighing should be carried out exclusively at government-approved or third-party (NABL) endorsed weighbridges, ideally in your presence. \n\nIf re-weighment is not mutually agreed upon or the discrepancy surpasses the tolerance level, you may release the vehicle while providing a conditional POD. ",
                 "slug": "i-have-a-weighment-gap-what-do-i-do",
-                "metaTitle": "Test Resolve Weighment Gaps | JSW One MSME Support",
-                "metaDescription": "Test Facing a weighment gap? Visit JSW One MSME's support page for guidance on resolving weighment discrepancies and ensuring accurate measurements.",
+                "metaTitle": "Resolve Weighment Gaps | JSW One MSME Support",
+                "metaDescription": "Facing a weighment gap? Visit JSW One MSME's support page for guidance on resolving weighment discrepancies and ensuring accurate measurements.",
                 "contentfulId": "1Wvm2d2Z9rL2JxlJKU52Ao",
                 "createdAt": "2025-01-15T10:49:40.148Z",
-                "updatedAt": "2025-02-12T07:21:18.604Z",
+                "updatedAt": "2025-02-19T08:23:29.976Z",
                 "publishedAt": "2025-01-15T10:49:40.239Z",
                 "images": {
                     "data": null
@@ -783,14 +783,14 @@
         {
             "id": 90,
             "attributes": {
-                "title": "Test How do I get my order invoice?",
-                "description": "Test A hard copy of the invoice will be sent along with the vehicle at the time of dispatch, and a soft copy of the same will be shared on your registered email address at the time of dispatch. ",
+                "title": "How do I get my order invoice?",
+                "description": "A hard copy of the invoice will be sent along with the vehicle at the time of dispatch, and a soft copy of the same will be shared on your registered email address at the time of dispatch. ",
                 "slug": "how-do-i-get-my-order-invoice",
-                "metaTitle": "Test Get Your Order Invoice | JSW One MSME Support",
-                "metaDescription": "Test Learn how to obtain your order invoice at JSW One MSME. Visit our support page for easy steps to access and download your invoice quickly.",
+                "metaTitle": "Get Your Order Invoice | JSW One MSME Support",
+                "metaDescription": "Learn how to obtain your order invoice at JSW One MSME. Visit our support page for easy steps to access and download your invoice quickly.",
                 "contentfulId": "4EdpWvB7FvAlyFvUUgnqee",
                 "createdAt": "2025-01-15T10:50:04.836Z",
-                "updatedAt": "2025-02-12T07:06:43.638Z",
+                "updatedAt": "2025-02-19T08:19:49.928Z",
                 "publishedAt": "2025-01-15T10:50:04.940Z",
                 "images": {
                     "data": null
@@ -1264,13 +1264,13 @@
             "id": 98,
             "attributes": {
                 "title": "The UTR number shared with me, seems to be incorrect. What do I do? ",
-                "description": "Test You can contact us on +91 7208055523 or email us at support@jswonemsme.com.",
+                "description": "You can contact us on +91 7208055523 or email us at support@jswonemsme.com.",
                 "slug": "the-utr-number-shared-with-me-seems-to-be-incorrect-what-do-i-do",
-                "metaTitle": "Test Resolve Incorrect UTR Number Issues | JSW One MSME Support",
-                "metaDescription": "Testing\" Need help with an incorrect UTR number for your refund or cashback? Visit JSW One MSME's support page for step-by-step guidance on resolving UTR number issues efficiently.\"",
+                "metaTitle": "Resolve Incorrect UTR Number Issues | JSW One MSME Support",
+                "metaDescription": "\" Need help with an incorrect UTR number for your refund or cashback? Visit JSW One MSME's support page for step-by-step guidance on resolving UTR number issues efficiently.\"",
                 "contentfulId": "1sdy0hLwB6aIsxUiHwDiNJ",
                 "createdAt": "2025-01-15T10:50:53.921Z",
-                "updatedAt": "2025-02-12T07:11:12.402Z",
+                "updatedAt": "2025-02-19T08:21:01.545Z",
                 "publishedAt": "2025-01-15T10:50:54.012Z",
                 "images": {
                     "data": null
@@ -1324,13 +1324,13 @@
             "id": 99,
             "attributes": {
                 "title": "Where can I view the ledger for my company account?",
-                "description": "Test You can view your ledger by clicking on your 'Name' on the top navigation and then clicking on 'Ledger.' Through the ledger you will be able to access the ledger balance with ledger entries with options to download, email and request for ledger statement",
+                "description": "You can view your ledger by clicking on your 'Name' on the top navigation and then clicking on 'Ledger.' Through the ledger you will be able to access the ledger balance with ledger entries with options to download, email and request for ledger statement",
                 "slug": "where-can-i-view-the-ledger-for-my-company-account",
-                "metaTitle": "Test View Company Account Ledger | JSW One MSME Help & Support",
-                "metaDescription": "Test Discover where to access and view the ledger for your company account at JSW One MSME. Get detailed insights and manage your finances effectively.",
+                "metaTitle": "View Company Account Ledger | JSW One MSME Help & Support",
+                "metaDescription": "Discover where to access and view the ledger for your company account at JSW One MSME. Get detailed insights and manage your finances effectively.",
                 "contentfulId": "7cY8Lamo46dxmfmmorfsmD",
                 "createdAt": "2025-01-15T10:51:03.748Z",
-                "updatedAt": "2025-02-12T07:25:23.226Z",
+                "updatedAt": "2025-02-19T08:24:47.275Z",
                 "publishedAt": "2025-01-15T10:51:03.865Z",
                 "images": {
                     "data": [
@@ -1426,10 +1426,10 @@
                                 "cta": "View ledger",
                                 "ctaUrl": "/ledger",
                                 "metaTitle": "Test - JSW One MSME | Ledger: Keep Track of Your Steel, TMT Bar and Cement related Transactions ",
-                                "metaDescription": "Test - Stay organized with JSW One MSME's ledger feature. Easily manage and monitor your transactions for a clear financial overview.",
+                                "metaDescription": "JSW One MSME's ledger feature. Easily manage and monitor your transactions for a clear financial overview.",
                                 "contentfulId": "6ys2w3X3mOgpVyRAFSeotp",
                                 "createdAt": "2025-01-15T10:51:02.505Z",
-                                "updatedAt": "2025-02-11T04:37:02.158Z",
+                                "updatedAt": "2025-02-25T05:16:50.967Z",
                                 "publishedAt": "2025-01-15T10:51:02.602Z",
                                 "thumbnail": {
                                     "data": {
@@ -1464,13 +1464,13 @@
             "id": 100,
             "attributes": {
                 "title": "Can I change my delivery type after order confirmation?",
-                "description": "Test Any delivery-related changes can be made before the order is placed. We cannot alter the delivery mode post-order confirmation.",
+                "description": "Any delivery-related changes can be made before the order is placed. We cannot alter the delivery mode post-order confirmation.",
                 "slug": "can-i-change-my-delivery-type-after-order-confirmation",
-                "metaTitle": "Can I Change My Delivery Type After Order Confirmation? | JSW One MSME Help & Support Tesing Jsw",
-                "metaDescription": "Test Learn about changing delivery types after confirming your order at JSW One MSME. Find answers to your queries and get support for your orders here.",
+                "metaTitle": "Can I Change My Delivery Type After Order Confirmation? | JSW One MSME Help & Support",
+                "metaDescription": "Learn about changing delivery types after confirming your order at JSW One MSME. Find answers to your queries and get support for your orders here.",
                 "contentfulId": "64XXWRTLVVV0lGLSxUwhDX",
                 "createdAt": "2025-01-15T10:51:10.586Z",
-                "updatedAt": "2025-02-12T07:33:07.094Z",
+                "updatedAt": "2025-02-24T16:45:13.693Z",
                 "publishedAt": "2025-01-15T10:51:10.673Z",
                 "images": {
                     "data": null
@@ -1524,13 +1524,13 @@
             "id": 101,
             "attributes": {
                 "title": "Can I reinstate my cancelled order?",
-                "description": "Test An order, once processed for cancellation, cannot be reinstated. Feel free to discuss it with your sales representative for further clarity or email us at support@jswonemsme.com.",
+                "description": "An order, once processed for cancellation, cannot be reinstated. Feel free to discuss it with your sales representative for further clarity or email us at support@jswonemsme.com.",
                 "slug": "can-i-reinstate-my-cancelled-order",
-                "metaTitle": "Test JSW One MSME | Reinstating Cancelled Orders: What You Need to Know",
-                "metaDescription": "Test Find out if you can reinstate a cancelled order on JSW One's platform and learn about the process involved in reinstating orders for a seamless experience.",
+                "metaTitle": "JSW One MSME | Reinstating Cancelled Orders: What You Need to Know",
+                "metaDescription": "Find out if you can reinstate a cancelled order on JSW One's platform and learn about the process involved in reinstating orders for a seamless experience.",
                 "contentfulId": "42ScZWLY2CoVUOLZQfQVOG",
                 "createdAt": "2025-01-15T10:51:17.479Z",
-                "updatedAt": "2025-02-12T07:42:20.857Z",
+                "updatedAt": "2025-02-19T08:26:51.719Z",
                 "publishedAt": "2025-01-15T10:51:17.578Z",
                 "images": {
                     "data": null
@@ -1584,13 +1584,13 @@
             "id": 102,
             "attributes": {
                 "title": "How do I logout of my account? ",
-                "description": "Test - You can logout of your account by clicking on your 'Name' on the top right of the website navigation to access the logout button. To successfully log out of the website, please click on 'Logout'.",
+                "description": "You can logout of your account by clicking on your 'Name' on the top right of the website navigation to access the logout button. To successfully log out of the website, please click on 'Logout'.",
                 "slug": "how-do-i-log-out-of-my-account",
-                "metaTitle": "Test - JSW One MSME | Logging Out of Your Account: Step-by-Step Guide",
-                "metaDescription": "Test - Follow our step-by-step guide to log out of your account on JSW One's platform and ensure the security of your information and account access.",
+                "metaTitle": "JSW One MSME | Logging Out of Your Account: Step-by-Step Guide",
+                "metaDescription": "Follow our step-by-step guide to log out of your account on JSW One's platform and ensure the security of your information and account access.",
                 "contentfulId": "5YPOWGgV4tRcFmRPw3JFDv",
                 "createdAt": "2025-01-15T10:51:27.505Z",
-                "updatedAt": "2025-02-11T04:38:39.371Z",
+                "updatedAt": "2025-02-19T08:12:40.765Z",
                 "publishedAt": "2025-01-15T10:51:27.630Z",
                 "images": {
                     "data": [
@@ -2265,14 +2265,14 @@
         {
             "id": 111,
             "attributes": {
-                "title": "Can I add multiple addresses? ",
+                "title": "Can I add multiple addresses?",
                 "description": "Yes, you can add multiple addresses under your account. Please follow the below steps for checking your address and addition of a new address on JSW One MSME website:  ",
                 "slug": "can-i-add-multiple-addresses",
                 "metaTitle": "Manage My Account - Can I Add Multiple Addresses | JSW One MSME",
                 "metaDescription": "Learn how to easily add multiple addresses to your JSW One MSME account for convenient shipping and billing options.",
                 "contentfulId": "1wgDy0kFqb5Kf1Mz4SUMQH",
                 "createdAt": "2025-01-15T10:52:37.168Z",
-                "updatedAt": "2025-01-15T10:52:37.279Z",
+                "updatedAt": "2025-02-24T17:12:01.869Z",
                 "publishedAt": "2025-01-15T10:52:37.273Z",
                 "images": {
                     "data": [
@@ -5307,11 +5307,11 @@
                 "title": "What do I do if there is a mismatch in the ledger for my company account?",
                 "description": "In case of discrepancy, you can contact us at +91 7208055523 or email us at support@jswonemsme.com with a clear call out of the issue.",
                 "slug": "what-do-i-do-if-there-is-a-mismatch-in-the-ledger-for-my-company-account",
-                "metaTitle": "JSW One MSME | Ledger: Handling Mismatches in Your Company Account",
+                "metaTitle": "JSW One MSME | Ledger: Handling Mismatche in Your Company Account",
                 "metaDescription": "Discover what to do if there's a mismatch in the ledger for your company account with JSW One MSME's assistance. Get guidance for resolving discrepancies effectively.",
                 "contentfulId": "7A5ASURnc6BdzTUuTTnM2m",
                 "createdAt": "2025-01-15T11:51:25.491Z",
-                "updatedAt": "2025-01-15T11:51:42.690Z",
+                "updatedAt": "2025-02-24T17:08:25.491Z",
                 "publishedAt": "2025-01-15T11:51:41.808Z",
                 "images": {
                     "data": null
@@ -5327,10 +5327,10 @@
                                 "cta": "View ledger",
                                 "ctaUrl": "/ledger",
                                 "metaTitle": "Test - JSW One MSME | Ledger: Keep Track of Your Steel, TMT Bar and Cement related Transactions ",
-                                "metaDescription": "Test - Stay organized with JSW One MSME's ledger feature. Easily manage and monitor your transactions for a clear financial overview.",
+                                "metaDescription": "JSW One MSME's ledger feature. Easily manage and monitor your transactions for a clear financial overview.",
                                 "contentfulId": "6ys2w3X3mOgpVyRAFSeotp",
                                 "createdAt": "2025-01-15T10:51:02.505Z",
-                                "updatedAt": "2025-02-11T04:37:02.158Z",
+                                "updatedAt": "2025-02-25T05:16:50.967Z",
                                 "publishedAt": "2025-01-15T10:51:02.602Z",
                                 "thumbnail": {
                                     "data": {
@@ -6026,7 +6026,7 @@
                                             "createdAt": "2025-01-15T10:52:02.655Z",
                                             "updatedAt": "2025-01-15T10:52:02.655Z"
                                         }
-                                    }How can I pay for my order?
+                                    }
                                 }
                             }
                         }

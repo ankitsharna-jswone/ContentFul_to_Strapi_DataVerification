@@ -1,0 +1,19 @@
+Content Comparison Report - 2025-02-25 12:21:29
+==================================================
+
+Total Titles Compared: 6
+Total Field Comparisons: 48
+Perfect Matches: 30 (62.50%)
+Missing Data Instances: 0 (0.00%)
+Low Similarity Cases: 9 (18.75%)
+
+Top Titles with Most Mismatches:
+ - privacypolicy: 2 mismatches
+ - returnspolicy: 2 mismatches
+ - termsofuse: 2 mismatches
+ - jswselleragreementtermsconditions: 1 mismatches
+ - sitemap: 1 mismatches
+
+Fields with Most Mismatches:
+ - Mapping Name: 6 mismatches
+ - Content Menu: 3 mismatches

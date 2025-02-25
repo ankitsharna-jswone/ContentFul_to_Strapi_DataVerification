@@ -2,10 +2,255 @@
     "sys": {
         "type": "Array"
     },
-    "total": 76,
+    "total": 77,
     "skip": 0,
     "limit": 76,
     "items": [
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "o0otttl8ele8"
+                    }
+                },
+                "id": "7A5ASURnc6BdzTUuTTnM2m",
+                "type": "Entry",
+                "createdAt": "2024-02-04T13:05:22.660Z",
+                "updatedAt": "2025-02-24T17:06:07.299Z",
+                "environment": {
+                    "sys": {
+                        "id": "production",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 8,
+                "publishedAt": "2025-02-24T17:06:07.299Z",
+                "firstPublishedAt": "2024-02-04T13:05:45.989Z",
+                "createdBy": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "User",
+                        "id": "71d3x8TYe5xaFv4DUBqfGF"
+                    }
+                },
+                "updatedBy": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "User",
+                        "id": "5wZyZM78GRMI4xX1EjUTpm"
+                    }
+                },
+                "publishedCounter": 3,
+                "version": 9,
+                "publishedBy": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "User",
+                        "id": "5wZyZM78GRMI4xX1EjUTpm"
+                    }
+                },
+                "fieldStatus": {
+                    "*": {
+                        "en-US": "published",
+                        "hi": "published",
+                        "te-IN": "published",
+                        "ta": "published"
+                    }
+                },
+                "automationTags": [],
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "faqs"
+                    }
+                },
+                "urn": "crn:contentful:::content:spaces/o0otttl8ele8/environments/production/entries/7A5ASURnc6BdzTUuTTnM2m"
+            },
+            "fields": {
+                "title": {
+                    "en-US": "What do I do if there is a mismatch in the ledger for my company account?"
+                },
+                "description": {
+                    "en-US": "In case of discrepancy, you can contact us at +91 7208055523 or email us at support@jswonemsme.com with a clear call out of the issue."
+                },
+                "topic": {
+                    "en-US": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Entry",
+                            "id": "6ys2w3X3mOgpVyRAFSeotp"
+                        }
+                    }
+                },
+                "slug": {
+                    "en-US": "what-do-i-do-if-there-is-a-mismatch-in-the-ledger-for-my-company-account"
+                },
+                "metaTitle": {
+                    "en-US": "JSW One MSME | Ledger: Handling Mismatche in Your Company Account"
+                },
+                "metaDescription": {
+                    "en-US": "Discover what to do if there's a mismatch in the ledger for your company account with JSW One MSME's assistance. Get guidance for resolving discrepancies effectively."
+                }
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "o0otttl8ele8"
+                    }
+                },
+                "id": "5R3cYwffLVrq93BXA6cKCw",
+                "type": "Entry",
+                "createdAt": "2025-02-18T06:56:01.073Z",
+                "updatedAt": "2025-02-24T16:48:03.158Z",
+                "environment": {
+                    "sys": {
+                        "id": "production",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "createdBy": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "User",
+                        "id": "5wZyZM78GRMI4xX1EjUTpm"
+                    }
+                },
+                "updatedBy": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "User",
+                        "id": "5wZyZM78GRMI4xX1EjUTpm"
+                    }
+                },
+                "publishedCounter": 0,
+                "version": 4,
+                "fieldStatus": {
+                    "*": {
+                        "en-US": "draft"
+                    }
+                },
+                "automationTags": [],
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "faqs"
+                    }
+                },
+                "urn": "crn:contentful:::content:spaces/o0otttl8ele8/environments/production/entries/5R3cYwffLVrq93BXA6cKCw"
+            },
+            "fields": {
+                "slug": {
+                    "en-US": "untitled-entry-2025-02-18-at-06-56-01"
+                },
+                "metaTitle": {
+                    "en-US": "Buy Steel Online | Industrial Materials Marketplace | JSW One MSME"
+                },
+                "metaDescription": {
+                    "en-US": "Buy the best quality steel, welding consumables, TMT, and cement online at JSW One MSME - the online marketplace for manufacturing & construction material requirements."
+                }
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "o0otttl8ele8"
+                    }
+                },
+                "id": "38hGgoUO3fWrmOVvSO6Zq9",
+                "type": "Entry",
+                "createdAt": "2024-02-05T05:55:36.112Z",
+                "updatedAt": "2025-02-18T06:56:39.507Z",
+                "environment": {
+                    "sys": {
+                        "id": "production",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "firstPublishedAt": "2024-02-05T05:56:08.155Z",
+                "createdBy": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "User",
+                        "id": "71d3x8TYe5xaFv4DUBqfGF"
+                    }
+                },
+                "updatedBy": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "User",
+                        "id": "5wZyZM78GRMI4xX1EjUTpm"
+                    }
+                },
+                "publishedCounter": 1,
+                "version": 8,
+                "fieldStatus": {
+                    "*": {
+                        "en-US": "draft"
+                    }
+                },
+                "automationTags": [],
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "faqs"
+                    }
+                },
+                "urn": "crn:contentful:::content:spaces/o0otttl8ele8/environments/production/entries/38hGgoUO3fWrmOVvSO6Zq9"
+            },
+            "fields": {
+                "title": {
+                    "en-US": "How do I change contact persons name and phone number in my account?"
+                },
+                "description": {
+                    "en-US": "You cannot change the details of contact name and phone number used during account registration on JSW One MSME. In case of any changes required, please contact us on +91 7208055523 or email us at support@jswonemsme.com.  \n\nYou can add the contact person name and phone number as part of new address addition on the website through your profile after logging-in. "
+                },
+                "topic": {
+                    "en-US": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Entry",
+                            "id": "6suuP0S0MWwCy8XXCvP565"
+                        }
+                    }
+                },
+                "slug": {
+                    "en-US": "how-do-i-change-contact-persons-name-and-phone-number-in-my-account"
+                },
+                "metaTitle": {
+                    "en-US": "Buy Steel Online | Industrial Materials Marketplace | JSW One MSME"
+                },
+                "metaDescription": {
+                    "en-US": "Buy the best quality steel, welding consumables, TMT, and cement online at JSW One MSME - the online marketplace for manufacturing & construction material requirements."
+                }
+            }
+        },
         {
             "metadata": {
                 "tags": [],
@@ -6293,98 +6538,6 @@
                         "id": "o0otttl8ele8"
                     }
                 },
-                "id": "7A5ASURnc6BdzTUuTTnM2m",
-                "type": "Entry",
-                "createdAt": "2024-02-04T13:05:22.660Z",
-                "updatedAt": "2024-06-05T10:27:21.301Z",
-                "environment": {
-                    "sys": {
-                        "id": "production",
-                        "type": "Link",
-                        "linkType": "Environment"
-                    }
-                },
-                "publishedVersion": 6,
-                "publishedAt": "2024-06-05T10:27:21.301Z",
-                "firstPublishedAt": "2024-02-04T13:05:45.989Z",
-                "createdBy": {
-                    "sys": {
-                        "type": "Link",
-                        "linkType": "User",
-                        "id": "71d3x8TYe5xaFv4DUBqfGF"
-                    }
-                },
-                "updatedBy": {
-                    "sys": {
-                        "type": "Link",
-                        "linkType": "User",
-                        "id": "0svpAw7ux6bolLyBhqVjmN"
-                    }
-                },
-                "publishedCounter": 2,
-                "version": 7,
-                "publishedBy": {
-                    "sys": {
-                        "type": "Link",
-                        "linkType": "User",
-                        "id": "0svpAw7ux6bolLyBhqVjmN"
-                    }
-                },
-                "fieldStatus": {
-                    "*": {
-                        "en-US": "published"
-                    }
-                },
-                "automationTags": [],
-                "contentType": {
-                    "sys": {
-                        "type": "Link",
-                        "linkType": "ContentType",
-                        "id": "faqs"
-                    }
-                },
-                "urn": "crn:contentful:::content:spaces/o0otttl8ele8/environments/production/entries/7A5ASURnc6BdzTUuTTnM2m"
-            },
-            "fields": {
-                "title": {
-                    "en-US": "What do I do if there is a mismatch in the ledger for my company account?"
-                },
-                "description": {
-                    "en-US": "In case of discrepancy, you can contact us at +91 7208055523 or email us at support@jswonemsme.com with a clear call out of the issue."
-                },
-                "topic": {
-                    "en-US": {
-                        "sys": {
-                            "type": "Link",
-                            "linkType": "Entry",
-                            "id": "6ys2w3X3mOgpVyRAFSeotp"
-                        }
-                    }
-                },
-                "slug": {
-                    "en-US": "what-do-i-do-if-there-is-a-mismatch-in-the-ledger-for-my-company-account"
-                },
-                "metaTitle": {
-                    "en-US": "JSW One MSME | Ledger: Handling Mismatches in Your Company Account"
-                },
-                "metaDescription": {
-                    "en-US": "Discover what to do if there's a mismatch in the ledger for your company account with JSW One MSME's assistance. Get guidance for resolving discrepancies effectively."
-                }
-            }
-        },
-        {
-            "metadata": {
-                "tags": [],
-                "concepts": []
-            },
-            "sys": {
-                "space": {
-                    "sys": {
-                        "type": "Link",
-                        "linkType": "Space",
-                        "id": "o0otttl8ele8"
-                    }
-                },
                 "id": "23b8rVhgeTsCymVQOHTdCd",
                 "type": "Entry",
                 "createdAt": "2024-01-31T13:26:11.535Z",
@@ -6897,78 +7050,6 @@
                         "id": "o0otttl8ele8"
                     }
                 },
-                "id": "38hGgoUO3fWrmOVvSO6Zq9",
-                "type": "Entry",
-                "createdAt": "2024-02-05T05:55:36.112Z",
-                "updatedAt": "2024-02-14T05:15:24.200Z",
-                "environment": {
-                    "sys": {
-                        "id": "production",
-                        "type": "Link",
-                        "linkType": "Environment"
-                    }
-                },
-                "firstPublishedAt": "2024-02-05T05:56:08.155Z",
-                "createdBy": {
-                    "sys": {
-                        "type": "Link",
-                        "linkType": "User",
-                        "id": "71d3x8TYe5xaFv4DUBqfGF"
-                    }
-                },
-                "updatedBy": {
-                    "sys": {
-                        "type": "Link",
-                        "linkType": "User",
-                        "id": "71d3x8TYe5xaFv4DUBqfGF"
-                    }
-                },
-                "publishedCounter": 1,
-                "version": 6,
-                "automationTags": [],
-                "contentType": {
-                    "sys": {
-                        "type": "Link",
-                        "linkType": "ContentType",
-                        "id": "faqs"
-                    }
-                },
-                "urn": "crn:contentful:::content:spaces/o0otttl8ele8/environments/production/entries/38hGgoUO3fWrmOVvSO6Zq9"
-            },
-            "fields": {
-                "title": {
-                    "en-US": "How do I change contact persons name and phone number in my account?"
-                },
-                "description": {
-                    "en-US": "You cannot change the details of contact name and phone number used during account registration on JSW One MSME. In case of any changes required, please contact us on +91 7208055523 or email us at support@jswonemsme.com.  \n\nYou can add the contact person name and phone number as part of new address addition on the website through your profile after logging-in. "
-                },
-                "topic": {
-                    "en-US": {
-                        "sys": {
-                            "type": "Link",
-                            "linkType": "Entry",
-                            "id": "6suuP0S0MWwCy8XXCvP565"
-                        }
-                    }
-                },
-                "slug": {
-                    "en-US": "how-do-i-change-contact-persons-name-and-phone-number-in-my-account"
-                }
-            }
-        },
-        {
-            "metadata": {
-                "tags": [],
-                "concepts": []
-            },
-            "sys": {
-                "space": {
-                    "sys": {
-                        "type": "Link",
-                        "linkType": "Space",
-                        "id": "o0otttl8ele8"
-                    }
-                },
                 "id": "7a8h3GL1zUqW7HSyLz9fNP",
                 "type": "Entry",
                 "createdAt": "2024-02-04T08:27:09.320Z",
@@ -7097,77 +7178,6 @@
                 },
                 "slug": {
                     "en-US": "is-there-a-cancellation-fee"
-                }
-            }
-        },
-        {
-            "metadata": {
-                "tags": [],
-                "concepts": []
-            },
-            "sys": {
-                "space": {
-                    "sys": {
-                        "type": "Link",
-                        "linkType": "Space",
-                        "id": "o0otttl8ele8"
-                    }
-                },
-                "id": "5B3UMVpO6UhEZaUWY7FT2D",
-                "type": "Entry",
-                "createdAt": "2024-02-04T12:39:02.277Z",
-                "updatedAt": "2024-02-04T12:39:29.600Z",
-                "environment": {
-                    "sys": {
-                        "id": "production",
-                        "type": "Link",
-                        "linkType": "Environment"
-                    }
-                },
-                "createdBy": {
-                    "sys": {
-                        "type": "Link",
-                        "linkType": "User",
-                        "id": "71d3x8TYe5xaFv4DUBqfGF"
-                    }
-                },
-                "updatedBy": {
-                    "sys": {
-                        "type": "Link",
-                        "linkType": "User",
-                        "id": "71d3x8TYe5xaFv4DUBqfGF"
-                    }
-                },
-                "publishedCounter": 0,
-                "version": 4,
-                "automationTags": [],
-                "contentType": {
-                    "sys": {
-                        "type": "Link",
-                        "linkType": "ContentType",
-                        "id": "faqs"
-                    }
-                },
-                "urn": "crn:contentful:::content:spaces/o0otttl8ele8/environments/production/entries/5B3UMVpO6UhEZaUWY7FT2D"
-            },
-            "fields": {
-                "title": {
-                    "en-US": "I have been asked to pay for positive tolerance amount. When can I make the payment? "
-                },
-                "description": {
-                    "en-US": "The amount due for positive tolerance needs to be paid within 15 days of the invoicing date."
-                },
-                "topic": {
-                    "en-US": {
-                        "sys": {
-                            "type": "Link",
-                            "linkType": "Entry",
-                            "id": "4cYqOxF7yMe3VZWEju7hyq"
-                        }
-                    }
-                },
-                "slug": {
-                    "en-US": "i-have-been-asked-to-pay-for-positive-tolerance-amount-when-can-i-make-the"
                 }
             }
         }

@@ -6,9 +6,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Configuration
-CONTENTFUL_CSV = "/Users/ankitsharma/Desktop/DataValidation/Prod/csv/new_extracted_content.csv"
+CONTENTFUL_CSV = "/Users/ankitsharma/Desktop/DataValidation/Prod/csv/updateextracted_contentful_data.csv"
 STRAPI_CSV = "/Users/ankitsharma/Desktop/DataValidation/Prod/csv/new_Strapi_prod.csv"
-OUTPUT_CSV = "/Users/ankitsharma/Desktop/DataValidation/Prod/csv/newValidation_Prod.csv"
+OUTPUT_CSV = "/Users/ankitsharma/Desktop/DataValidation/Prod/csv/newValidation_ProdV2.csv"
 
 # Thresholds for different types of fields
 CONTENT_SIMILARITY_THRESHOLD = 0.95  # More lenient for content

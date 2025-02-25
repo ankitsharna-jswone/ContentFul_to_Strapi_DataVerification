@@ -16,7 +16,7 @@ STRAPI_HEADERS = {
 }
 
 # Load Contentful Blog Links
-contentful_file_path = "/Users/ankitsharma/Desktop/DataValidation/Prod/data/newcontent.json"
+contentful_file_path = "/Users/ankitsharma/Desktop/DataValidation/Prod/data/content.json"
 
 with open(contentful_file_path, "r", encoding="utf-8") as file:
     contentful_data = json.load(file)

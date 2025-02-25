@@ -3,7 +3,7 @@ import csv
 from collections import defaultdict
 
 # Load JSON data
-file_path = "FAQ/strapiFAQ.json"
+file_path = "strapiFAQ.json"
 with open(file_path, "r", encoding="utf-8") as file:
     data = json.load(file)
 
@@ -30,7 +30,7 @@ for item in data.get("data", []):
     data_dict[entry_id]["metaDescription"] += (" " + meta_description if meta_description else "")
 
 # Write to CSV
-output_file = "FAQ/extracted_strapi_faqs.csv"
+output_file = "extracted_strapi_faqs.csv"
 with open(output_file, "w", newline="", encoding="utf-8") as csvfile:
     fieldnames = ["Id", "Title", "Description", "Slug", "Meta Title", "Meta Description"]
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
